@@ -1,0 +1,52 @@
+D:\Window XP Shared\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.frmBase.resources
+D:\Window XP Shared\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.Resources.resources
+D:\Window XP Shared\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.vbproj.GenerateResource.Cache
+D:\Window XP Shared\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.exe
+D:\Window XP Shared\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.xml
+D:\Window XP Shared\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.pdb
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.frmBase.resources
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.Resources.resources
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.vbproj.GenerateResource.Cache
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.exe
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.xml
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.pdb
+C:\Program Files (x86)\Taxoffice\Taxoffice Taxcom B+\TaxcomBPlus.exe.config
+C:\Program Files (x86)\Taxoffice\Taxoffice Taxcom B+\TaxcomBPlus.exe
+C:\Program Files (x86)\Taxoffice\Taxoffice Taxcom B+\TaxcomBPlus.pdb
+C:\Program Files (x86)\Taxoffice\Taxoffice Taxcom B+\TaxcomBPlus.xml
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.exe.config
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.exe
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.pdb
+D:\Share Folder\Code\Taxcom 2015 SU2 Source Code\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.xml
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.exe.config
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.exe
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.pdb
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.xml
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.frmBase.resources
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.Resources.resources
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.vbproj.GenerateResource.Cache
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.exe
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.xml
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.pdb
+Z:\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.vbprojResolveAssemblyReference.cache
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.exe.config
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.exe
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.pdb
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.xml
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.frmBase.resources
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.Resources.resources
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.vbproj.GenerateResource.Cache
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.exe
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.xml
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form\TaxcomBPlus\obj\Debug\TaxcomBPlus.pdb
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.exe.config
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.exe
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.pdb
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\bin\Debug\Taxoffice Taxcom B+\TaxcomBPlus.xml
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\obj\Debug\TaxcomBPlus.vbprojResolveAssemblyReference.cache
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\obj\Debug\TaxcomBPlus.frmBase.resources
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\obj\Debug\TaxcomBPlus.Resources.resources
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\obj\Debug\TaxcomBPlus.vbproj.GenerateResource.Cache
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\obj\Debug\TaxcomBPlus.exe
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\obj\Debug\TaxcomBPlus.xml
+D:\Share Folder\TAXCOM CODE VBNET\Visual Studio .NET\TaxcomBPlus Form Access\TaxcomBPlus\obj\Debug\TaxcomBPlus.pdb

@@ -1,0 +1,1174 @@
+01111|Penanaman jagung|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01112|Penanaman tanaman kekacang|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01113|Penanaman bijian berminyak|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01119|Penanaman bijirin lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01120|Penanaman padi|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01131|Penanaman sayur-sayuran berdaun atau berbatang|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01132|Penanaman sayur-sayuran berbuah|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01133|Penanaman tembikai|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01134|Penanaman cendawan dan truffles|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01135|Penanaman benih sayuran, kecuali benih bit|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01136|Penanaman sayur-sayuran lain|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01137|Penanaman ubi gula|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01138|Penanaman tumbuhan berakar, ubi-ubian, bebawang atau sayur-sayuran berubi|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01140|Penanaman tebu|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01150|Penanaman tembakau|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01160|Penanaman tanaman berserat|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01191|Penanaman bunga|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01192|Penanaman biji benih bungaan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01193|Penanaman sagu (rumbia)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01199|Penanaman tanaman bukan kekal lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01210|Penanaman anggur|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01221|Penanaman pisang|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01222|Penanaman mangga|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01223|Penanaman durian|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01224|Penanaman rambutan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01225|Penanaman buah belimbing|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01226|Penanaman betik|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01227|Penanaman nenas|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01228|Penanaman buah naga|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01229|Penanaman buah-buahan tropika dan subtropika lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01231|Penanaman limau bali|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01232|Penanaman lemon dan limau nipis|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01233|Penanaman tangerin dan mandarin|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01239|Penanaman buah-buahan sitrus lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01241|Penanaman jambu batu|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01249|Penanaman buah-buahan delima dan berbiji lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01251|Penanaman buah beri|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01252|Penanaman biji benih buah-buahan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01253|Penanaman kekacang yang boleh dimakan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01259|Penanaman pokok dan buah-buahan bertandan lain|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01261|Penanaman kelapa sawit (estet)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01262|Penanaman kelapa sawit (kebun kecil)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01263|Penanaman kelapa (estet dan kebun kecil)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01269|Penanaman buah-buah lain untuk minyak t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01271|Penanaman kopi|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01272|Penanaman teh|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01273|Penanaman koko|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01279|Penanaman tanaman minuman lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01281|Penanaman lada hitam (piper nigrum)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01282|Penanaman cili dan lada (lada benggala spp.)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01283|Penanaman buah pala|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01284|Penanaman halia|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01285|Penanaman tanaman yang digunakan terutamanya untuk penghasilan minyak wangi, untuk farmasi atau untuk racun serangga, kulat atau untuk tujuan yang seumpamanya|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01289|Penanaman tanaman rempah ratus dan aromatik lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01291|Penanaman pokok getah (estet)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01292|Penanaman pokok getah (kebun kecil)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01293|Penanaman pokok untuk pengekstrakan sap|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01294|Penanaman pokok nipah|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01295|Penanaman pokok pinang|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01296|Penanaman pokok roselle|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01299|Penanaman tanaman kekal lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01301|Penanaman tumbuhan sebagai tanaman|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01302|Penanaman tumbuhan untuk tujuan hiasan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01303|Penanaman tumbuhan untuk bebawang, ubi dan akar; keratan dan slips; cendawan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01304|Operasi tapak semaian pokok (nurseries)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01411|Penternakan, pembiakan dan pengeluaran lembu atau kerbau|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01412|Pengeluaran susu mentah daripada lembu atau kerbau|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01413|Pengeluaran air mani lembu|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01420|Penternakan dan pembiakan kuda, keldai, baghal atau hinnes|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01430|Penternakan dan pembiakan unta (dromedary) dan camelid|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01441|Penternakan, pembiakan dan pengeluaran biri-biri dan kambing|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01442|Pengeluaran susu mentah biri-biri atau kambing|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01443|Pengeluaran bulu belum proses|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01450|Penternakan, pembiakan dan pengeluaran babi|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01461|Penternakan, pembiakan dan pengeluaran ayam, ayam daging|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01462|Penternakan, pembiakan dan pengeluaran itik|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01463|Penternakan, pembiakan dan pengeluaran angsa|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01464|Penternakan, pembiakan dan pengeluaran burung puyuh|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01465|Penternakan dan pembiakan unggas lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01466|Pengeluaran telur ayam|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01467|Pengeluaran telur itik|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01468|Pengeluaran telur unggas lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01469|Operasi penetasan unggas|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01491|Penternakan, pembiakan dan pengeluaran haiwan separuh jinak|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01492|Pengeluaran kulit berbulu, kulit burung atau reptilia dari operasi ladang ternakan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01493|Operasi ternakan cacing, moluska, siput|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01494|Penternakan ulat sutera dan pengeluaran hasil kepompong ulat sutera|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01495|Penternakan lebah dan pengeluaran hasil madu dan lilin lebah|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01496|Penternakan dan pembiakan haiwan peliharaan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01497|Penternakan dan pembiakan burung walit|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01499|Penternakan pelbagai/haiwan lain t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01500|Pertanian campuran|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01610|Aktiviti pertanian untuk pengeluaran tanaman berasaskan yuran atau kontrak|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01620|Aktiviti pertanian untuk pengeluaran ternakan berasaskan yuran atau kontrak|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01631|Penyediaan tanaman untuk pasaran utama|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01632|Penyediaan daun tembakau|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01633|Penyediaan biji koko|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01634|Menjemur sayur-sayuran dan buah-buahan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01640|Pemprosesan benih untuk pembiakan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01701|Pemburuan dan penjeratan haiwan secara komersial|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+01702|Penangkapan haiwan (hidup atau mati)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02101|Penanaman, penanaman semula, pemindahan, pengurusan dan pemuliharaan hutan dan kawasan lapang|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02102|Penanaman untuk tunas semula, kayu pulpa dan kayu api|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02103|Operasi tapak semaian pokok hutan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02104|Pengumpulan dan pemeliharaan hutan liar (spesies pokok hutan paya gambut)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02105|Ladang hutan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02201|Pengeluaran kayu balak untuk industri berasaskan kayu|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02202|Pengeluaran kayu balak yang digunakan dalam bentuk belum proses|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02203|Pengeluaran arang kayu dalam hutan (menggunakan kaedah tradisional)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02204|Pembalakan kayu getah|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02301|Pengumpulan rotan, buluh|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02302|Pemungutan sarang burung|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02303|Pengumpulan pokok sagu liar|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02309|Pengumpulan produk hutan bukan kayu t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02401|Menjalankan sebahagian operasi perhutanan dan ladang hutan berdasarkan bayaran atau secara kontrak untuk aktiviti perkhidmatan perhutanan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+02402|Menjalankan sebahagian operasi perhutanan berdasarkan bayaran atau secara kontrak untuk aktiviti perkhidmatan pembalakan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03111|Perikanan komersil di laut dan perairan pantai|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03112|Pemungutan krustasia dan moluska laut|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03113|Pengambilan haiwan akuatik : sea squirts, tunikat, landak laut|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03114|Aktiviti atas vessel yang melibatkan penangkapan, pemprosesan dan pengawetan ikan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03115|Pengumpulan organisma perikanan dan hasil laut lain (tiram semulajadi, span, batu karang dan alga)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03119|Perikanan laut t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03121|Perikanan komersil di darat|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03122|Pengambilan krustasia dan moluska air tawar|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03123|Pengambilan haiwan akuatik air tawar|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03124|Pengumpulan flora dan fauna air tawar|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03129|Perikanan ikan air tawar t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03211|Ternakan ikan di laut|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03212|Pengeluaran dwi-cangkerang spat (tiram, kupang), anak udang kara, anak udang dan benih ikan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03213|Penanaman rumpair merah dan rumpai laut lain yang boleh dimakan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03214|Pengkulturan krustasia, dwi-cangkerang, moluska dan haiwan akuatik lain di laut|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03215|Aktiviti akuakultur air payau|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03216|Aktiviti akuakultur di dalam tangki air atau takungan masin|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03217|Operasi penetasan anak benih (laut)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03218|Operasi ladang ternakan cacing laut untuk makanan ikan|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03219|Akuakultur laut t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03221|Ternakan ikan air tawar|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03222|Ternakan udang air tawar|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03223|Pengkulturan krustasia, dwi-cangkerang, moluska dan haiwan akuatik lain di air tawar|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03224|Operasi penetasan anak benih (air tawar)|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03225|Penternakan katak|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+03229|Akuakultur air tawar t.t.t.l.|A PERTANIAN, PERHUTANAN DAN PERIKANAN
+05100|Perlombongan batu arang pepejal|B PERLOMBONGAN DAN PENGKUARIAN
+05200|Perlombongan lignit (batu arang perang)|B PERLOMBONGAN DAN PENGKUARIAN
+06101|Pengekstrakan minyak petroleum mentah|B PERLOMBONGAN DAN PENGKUARIAN
+06102|Pengekstrakan bitumen atau minyak batu syal dan pasir tar|B PERLOMBONGAN DAN PENGKUARIAN
+06103|Pengeluaran petroleum mentah daripada batu syal dan pasir berbitumen|B PERLOMBONGAN DAN PENGKUARIAN
+06104|Proses mendapatkan minyak mentah|B PERLOMBONGAN DAN PENGKUARIAN
+06201|Pengeluaran hidrokarbon mentah bergas (gas asli)|B PERLOMBONGAN DAN PENGKUARIAN
+06202|Pengekstrakan kondensat|B PERLOMBONGAN DAN PENGKUARIAN
+06203|Penyaliran dan pemisahan komponen hidrokarbon cecair|B PERLOMBONGAN DAN PENGKUARIAN
+06204|Penyahsulfuran gas|B PERLOMBONGAN DAN PENGKUARIAN
+06205|Perlombongan cecair hidrokarbon, diperoleh melalui pencairan atau penguraian kimia (pyrolisis)|B PERLOMBONGAN DAN PENGKUARIAN
+07101|Perlombongan bijih yang tinggi kandungan besi|B PERLOMBONGAN DAN PENGKUARIAN
+07102|Pengekstrakan dan pengumpulan bijih besi|B PERLOMBONGAN DAN PENGKUARIAN
+07210|Perlombongan bijih uranium dan torium|B PERLOMBONGAN DAN PENGKUARIAN
+07291|Perlombongan bijih timah|B PERLOMBONGAN DAN PENGKUARIAN
+07292|Perlombongan tembaga|B PERLOMBONGAN DAN PENGKUARIAN
+07293|Perlombongan bauksit (aluminium)|B PERLOMBONGAN DAN PENGKUARIAN
+07294|Perlombongan ilmenit|B PERLOMBONGAN DAN PENGKUARIAN
+07295|Perlombongan emas|B PERLOMBONGAN DAN PENGKUARIAN
+07296|Perlombongan perak|B PERLOMBONGAN DAN PENGKUARIAN
+07297|Perlombongan platinum|B PERLOMBONGAN DAN PENGKUARIAN
+07298|Pembilasan amang|B PERLOMBONGAN DAN PENGKUARIAN
+07299|Perlombongan bijih logam bukan besi lain t.t.t.l.|B PERLOMBONGAN DAN PENGKUARIAN
+08101|Pengkuarian, pemotongan kasar bongkah batu dan batu bangunan seperti marmar, granit (dimension stone), batu pasir|B PERLOMBONGAN DAN PENGKUARIAN
+08102|Pengkuarian, penghancuran dan pemecahan batu kapur|B PERLOMBONGAN DAN PENGKUARIAN
+08103|Perlombongan gipsum dan anhidrit|B PERLOMBONGAN DAN PENGKUARIAN
+08104|Perlombongan kapur dan dolomite yang tidak dirawat|B PERLOMBONGAN DAN PENGKUARIAN
+08105|Pengekstrakan dan penggorekan bagi industri pasir, pasir untuk sektor pembinaan dan kerikil|B PERLOMBONGAN DAN PENGKUARIAN
+08106|Pemecahan dan penghancuran batu dan kerikil|B PERLOMBONGAN DAN PENGKUARIAN
+08107|Pengkuarian pasir|B PERLOMBONGAN DAN PENGKUARIAN
+08108|Perlombongan tanah liat, refraktori tanah liat dan kaolin|B PERLOMBONGAN DAN PENGKUARIAN
+08109|Pengkuarian, penghancuran dan pemecahan granit|B PERLOMBONGAN DAN PENGKUARIAN
+08911|Perlombongan fosfat semulajadi|B PERLOMBONGAN DAN PENGKUARIAN
+08912|Perlombongan garam kalium (potassium) semulajadi|B PERLOMBONGAN DAN PENGKUARIAN
+08913|Perlombongan sulfur semulajadi|B PERLOMBONGAN DAN PENGKUARIAN
+08914|Pengekstrakan dan penyediaan pirit dan pirotit, kecuali penyalaian|B PERLOMBONGAN DAN PENGKUARIAN
+08915|Perlombongan barium sulfat semulajadi dan karbonat (baryte and witerit)|B PERLOMBONGAN DAN PENGKUARIAN
+08916|Perlombongan borat semula jadi, magnesium sulfat semulajadi (kieserit)|B PERLOMBONGAN DAN PENGKUARIAN
+08917|Perlombongan earth colours, fluorspar dan mineral lain yang tinggi kandungan mineral sebagai sumber kimia|B PERLOMBONGAN DAN PENGKUARIAN
+08918|Perlombongan guano|B PERLOMBONGAN DAN PENGKUARIAN
+08921|Penggalian tanah gambut|B PERLOMBONGAN DAN PENGKUARIAN
+08922|Penggumpulan tanah gambut|B PERLOMBONGAN DAN PENGKUARIAN
+08923|Penyediaan tanah gambut untuk pembaikan kualiti atau kemudahan pengangkutan atau penstoran|B PERLOMBONGAN DAN PENGKUARIAN
+08931|Pengekstrakan garam dari bawah tanah|B PERLOMBONGAN DAN PENGKUARIAN
+08932|Pengeluaran garam melalui penyejatan air laut atau air masin lain|B PERLOMBONGAN DAN PENGKUARIAN
+08933|Penghancuran, penulenan dan penapisan garam oleh pengeluar|B PERLOMBONGAN DAN PENGKUARIAN
+08991|Perlombongan dan pengkuarian bahan pelelas (bahan kesat)|B PERLOMBONGAN DAN PENGKUARIAN
+08992|Perlombongan dan pengkuarian asbestos|B PERLOMBONGAN DAN PENGKUARIAN
+08993|Perlombongan dan pengkuarian fosil bersilika|B PERLOMBONGAN DAN PENGKUARIAN
+08994|Perlombongan dan pengkuarian grafit semulajadi|B PERLOMBONGAN DAN PENGKUARIAN
+08995|Perlombongan dan pengkuarian steatite (talkum)|B PERLOMBONGAN DAN PENGKUARIAN
+08996|Perlombongan dan pengkuarian batu permata|B PERLOMBONGAN DAN PENGKUARIAN
+08999|Perlombongan dan pengkuarian lain t.t.t.l.|B PERLOMBONGAN DAN PENGKUARIAN
+09101|Aktiviti pengekstrakan petroleum dan gas yang dibekalkan atas dasar kontrak atau yuran|B PERLOMBONGAN DAN PENGKUARIAN
+09102|Perkhidmatan memadam kebakaran di lapangan minyak dan gas|B PERLOMBONGAN DAN PENGKUARIAN
+09900|Aktiviti sokongan perlombongan dan pengkuarian lain|B PERLOMBONGAN DAN PENGKUARIAN
+10101|Pemprosesan dan pengawetan daging dan pengeluaran produk daging|C PEMBUATAN
+10102|Pemprosesan dan pengawetan ayam itik dan produk ayam itik|C PEMBUATAN
+10103|Pengeluaran belulang dan kulit daripada rumah penyembelihan|C PEMBUATAN
+10104|Operasi rumah penyembelihan yang terlibat dalam pembunuhan, pembersihan atau pembungkusan daging|C PEMBUATAN
+10109|Pemprosesan dan pengawetan daging t.t.t.l.|C PEMBUATAN
+10201|Pengetinan ikan, krustasea dan moluska|C PEMBUATAN
+10202|Pemprosesan dan pengawetan ikan, krustasea dan moluska|C PEMBUATAN
+10203|Pengeluaran makanan berasaskan ikan untuk manusia atau haiwan|C PEMBUATAN
+10204|Pengeluaran keropok termasuk keropok lekor|C PEMBUATAN
+10205|Pemprosesan rumpai laut|C PEMBUATAN
+10301|Pembuatan produk makanan buah-buahan dan sayur-sayuran|C PEMBUATAN
+10302|Pembuatan jus buah-buahan dan sayur-sayuran|C PEMBUATAN
+10303|Pengetinan nanas|C PEMBUATAN
+10304|Pembuatan jem, marmalad dan sajian jeli|C PEMBUATAN
+10305|Pembuatan kacang dan produk kekacang|C PEMBUATAN
+10306|Pembuatan produk tauhu|C PEMBUATAN
+10401|Pembuatan minyak sawit mentah|C PEMBUATAN
+10402|Pembuatan minyak sawit bertapis|C PEMBUATAN
+10403|Pembuatan minyak isirong|C PEMBUATAN
+10404|Pembuatan minyak sayuran mentah dan bertapis|C PEMBUATAN
+10405|Pembuatan minyak kelapa|C PEMBUATAN
+10406|Pembuatan sebatian lemak masakan|C PEMBUATAN
+10407|Pembuatan minyak dan lemak haiwan|C PEMBUATAN
+10501|Pembuatan aiskrim dan ais lain yang boleh dimakan seperti sorbet|C PEMBUATAN
+10502|Pembuatan susu pekat, tepung dan sejat|C PEMBUATAN
+10509|Pembuatan produk tenusu lain t.t.t.l.|C PEMBUATAN
+10611|Pengilangan beras|C PEMBUATAN
+10612|Perkhidmatan persediaan pengilangan|C PEMBUATAN
+10613|Pengilangan tepung|C PEMBUATAN
+10619|Pembuatan produk bijian t.t.t.l.|C PEMBUATAN
+10621|Pembuatan kanji dan produk berkanji|C PEMBUATAN
+10622|Pembuatan glukosa, sirap glukosa, maltosa, inulin|C PEMBUATAN
+10623|Pembuatan tepung/produk sagu dan ubi kayu|C PEMBUATAN
+10711|Pembuatan biskut dan cookies|C PEMBUATAN
+10712|Pembuatan roti, kek dan produk bakeri lain|C PEMBUATAN
+10713|Pembuatan produk snek|C PEMBUATAN
+10714|Pembuatan produk bakeri yang dibeku|C PEMBUATAN
+10721|Pembuatan gula|C PEMBUATAN
+10722|Pembuatan produk daripada gula|C PEMBUATAN
+10731|Pembuatan produk koko|C PEMBUATAN
+10732|Pembuatan coklat dan produk coklat|C PEMBUATAN
+10733|Pembuatan konfeksi gula|C PEMBUATAN
+10741|Pembuatan bihun, mi dan produk lain yang berkaitan|C PEMBUATAN
+10742|Pembuatan pasta|C PEMBUATAN
+10750|Pembuatan makanan dan hidangan tersedia|C PEMBUATAN
+10791|Pembuatan kopi|C PEMBUATAN
+10792|Pembuatan teh|C PEMBUATAN
+10793|Pembuatan sos dan bahan perasa|C PEMBUATAN
+10794|Pembuatan rempah ratus dan serbuk kari|C PEMBUATAN
+10795|Pembuatan produk berasaskan telur|C PEMBUATAN
+10799|Pembuatan produk makanan lain t.t.t.l.|C PEMBUATAN
+10800|Pembuatan makanan haiwan tersedia|C PEMBUATAN
+11010|Penyulingan, pembersihan dan pencampuran spirit|C PEMBUATAN
+11020|Pembuatan wain|C PEMBUATAN
+11030|Pembuatan minuman keras malt dan malt|C PEMBUATAN
+11041|Pembuatan minuman ringan|C PEMBUATAN
+11042|Pengeluaran air mineral semulajadi dan minuman lain yang dibotolkan|C PEMBUATAN
+12000|PEMBUATAN PRODUK TEMBAKAU|C PEMBUATAN
+13110|Penyediaan dan pemintalan gentian tekstil|C PEMBUATAN
+13120|Penenunan tekstil|C PEMBUATAN
+13131|Membuat batik|C PEMBUATAN
+13132|Pewarnaan, pelunturan, percetakan dan penyiapan akhir benang dan fabrik|C PEMBUATAN
+13139|Penyiapan akhir tekstil lain|C PEMBUATAN
+13910|Pembuatan fabrik dikait dan dikrusye|C PEMBUATAN
+13921|Pembuatan artikel tersedia bagi bahan tekstil seumpamanya, termasuk fabrik dikait atau dikrusye|C PEMBUATAN
+13922|Pembuatan artikel perhiasan tersedia|C PEMBUATAN
+13930|Pembuatan permaidani dan hamparan|C PEMBUATAN
+13940|Pembuatan bagi tali-temali, tali, tali pintal dan jaring|C PEMBUATAN
+13990|Pembuatan tekstil lain t.t.t.l.|C PEMBUATAN
+14101|Pembuatan pakaian spesifik|C PEMBUATAN
+14102|Pembuatan pakaian|C PEMBUATAN
+14103|Jahitan pakaian tempahan|C PEMBUATAN
+14109|Pembuatan aksesori pakaian lain|C PEMBUATAN
+14200|Pembuatan artikel daripada kulit bulu|C PEMBUATAN
+14300|Pembuatan pakaian yang dikait dan dikrusye|C PEMBUATAN
+15110|Penyamakan dan pembersihan kulit; pembersihan dan pewarnaan bulu|C PEMBUATAN
+15120|Pembuatan bagasi, beg tangan dan seumpamanya, pelana dan abah-abah|C PEMBUATAN
+15201|Pembuatan kasut kulit|C PEMBUATAN
+15202|Pembuatan kasut plastik|C PEMBUATAN
+15203|Pembuatan kasut getah|C PEMBUATAN
+15209|Pembuatan kasut lain t.t.t.l.|C PEMBUATAN
+16100|Pengilangan dan pengetaman kayu|C PEMBUATAN
+16211|Pembuatan kepingan venier dan papan lapis|C PEMBUATAN
+16212|Pembuatan papan partikel dan papan gentian|C PEMBUATAN
+16221|Pertukangan kayu untuk jurubina|C PEMBUATAN
+16222|Pembuatan produk tanggam kayu|C PEMBUATAN
+16230|Pembuatan bekas kayu|C PEMBUATAN
+16291|Pembuatan kayu arang|C PEMBUATAN
+16292|Pembuatan produk kayu lain; rotan, artikel gabus, jerami dan bahan jalinan|C PEMBUATAN
+17010|Pembuatan pulpa, kertas dan kertas tebal|C PEMBUATAN
+17020|Pembuatan kertas gelugur dan kertas tebal dan bekas daripada kertas dan kertas tebal|C PEMBUATAN
+17091|Pembuatan sampul surat dan kad surat|C PEMBUATAN
+17092|Pembuatan kertas kegunaan rumah dan pembersih peribadi|C PEMBUATAN
+17093|Pembuatan kertas bergam atau pelekat yang berjalur atau bergulung dan label dan kertas dinding|C PEMBUATAN
+17094|Pembuatan patung, barangan kertas upacara pengebumian, kertas colok|C PEMBUATAN
+17099|Pembuatan barang kertas dan kertas tebal lain yang t.t.t.l.|C PEMBUATAN
+18110|Percetakan|C PEMBUATAN
+18120|Aktiviti perkhidmatan berkaitan percetakan|C PEMBUATAN
+18200|Penerbitan semula media rakaman|C PEMBUATAN
+19100|Pembuatan produk ketuhar kok|C PEMBUATAN
+19201|Pembuatan produk petroleum bertapis|C PEMBUATAN
+19202|Pembuatan produk bio-diesel|C PEMBUATAN
+20111|Pembuatan gas perindustrian atau perubatan bukan organik dalam bentuk cecair atau mampat|C PEMBUATAN
+20112|Pembuatan kimia organik asas|C PEMBUATAN
+20113|Pembuatan sebatian bukan organik|C PEMBUATAN
+20119|Pembuatan kimia asas lain t.t.t.l.|C PEMBUATAN
+20121|Pembuatan baja|C PEMBUATAN
+20129|Pembuatan produk campuran nitrogen|C PEMBUATAN
+20131|Pembuatan plastik dalam bentuk primer|C PEMBUATAN
+20132|Pembuatan getah sintetik dalam bentuk primer: getah sintetik, tiruan|C PEMBUATAN
+20133|Pembuatan campuran getah sintetik dan getah asli atau getah–seperti perekat|C PEMBUATAN
+20210|Pembuatan racun perosak dan produk agrokimia lain|C PEMBUATAN
+20221|Pembuatan cat, varnis dan penyadur dan mastik|C PEMBUATAN
+20222|Pembuatan dakwat cetak|C PEMBUATAN
+20231|Pembuatan sabun dan bahan pencuci, penyediaan membersih dan mengilat|C PEMBUATAN
+20232|Pembuatan pewangi dan penyediaan dandanan diri|C PEMBUATAN
+20291|Pembuatan plat fotografi, filem, sensitized paper dan other sensitized unexposed materials|C PEMBUATAN
+20292|Pembuatan dakwat menulis dan melukis|C PEMBUATAN
+20299|Pembuatan produk kimia lain t.t.t.l.|C PEMBUATAN
+20300|Pembuatan serat buatan manusia|C PEMBUATAN
+21001|Pembuatan bahan aktif ubat-ubatan untuk digunakan oleh bidang farmakologi dalam pembuatan ubat-ubatan|C PEMBUATAN
+21002|Pemprosesan darah|C PEMBUATAN
+21003|Pembuatan ubat-ubatan|C PEMBUATAN
+21004|Pembuatan produk kimia bagi pencegah kehamilan|C PEMBUATAN
+21005|Pembuatan penyediaan diagnosis perubatan|C PEMBUATAN
+21006|Pembuatan bahan diagnosis in-vivo radioaktif|C PEMBUATAN
+21007|Pembuatan farmaseutikal bioteknologi|C PEMBUATAN
+21009|Pembuatan produk farmaseutikal, kimia perubatan dan botani t.t.t.l.|C PEMBUATAN
+22111|Pembuatan tayar getah untuk kenderaan|C PEMBUATAN
+22112|Pembuatan bunga tayar yang boleh ditukar ganti dan tayar celup|C PEMBUATAN
+22191|Pembuatan produk lain daripada getah asli atau sintetik, tidak divulkan, divulkan atau dikeraskan|C PEMBUATAN
+22192|Pembuatan sarung tangan getah|C PEMBUATAN
+22193|Pengilangan semula getah dan prosesan susu getah|C PEMBUATAN
+22199|Pembuatan produk getah lain yang t.t.t.l.|C PEMBUATAN
+22201|Pembuatan produk plastik separa siap|C PEMBUATAN
+22202|Pembuatan produk plastik siap|C PEMBUATAN
+22203|Pembuatan artikel plastik untuk pembungkusan barangan|C PEMBUATAN
+22204|Pembuatan barangan plastik jurubina|C PEMBUATAN
+22205|Pembuatan pinggan mangkuk, peralatan dapur dan barangan tandas daripada plastik|C PEMBUATAN
+22209|Pembuatan pelbagai produk plastik t.t.t.l.|C PEMBUATAN
+23101|Pembuatan kaca leper, termasuk kaca leper berdawai, berwarna atau sedikit berwarna|C PEMBUATAN
+23102|Pembuatan barangan kaca makmal, barangan kesihatan atau farmaseutikal|C PEMBUATAN
+23109|Pembuatan produk kaca lain t.t.t.l.|C PEMBUATAN
+23911|Pembuatan mortar refraktori dan konkrit|C PEMBUATAN
+23912|Pembuatan barangan seramik refraktori|C PEMBUATAN
+23921|Pembuatan seramik bukan refraktori|C PEMBUATAN
+23929|Pembuatan lain-lain bahan binaan dari tanah liat|C PEMBUATAN
+23930|Pembuatan produk porselin dan seramik lain|C PEMBUATAN
+23941|Pembuatan simen hidraulik|C PEMBUATAN
+23942|Pembuatan kapur dan plaster|C PEMBUATAN
+23951|Pembuatan konkrit dan mortar siap bancuh dan bancuhan kering|C PEMBUATAN
+23952|Pembuatan konkrit pratuangan, simen atau artikel batu buatan yang digunakan dalam pembinaan|C PEMBUATAN
+23953|Pembuatan komponen struktur pasang siap untuk bangunan atau kejuruteraan awam dari simen, batu atau konkrit buatan|C PEMBUATAN
+23959|Pembuatan artikel konkrit, simen dan plaster lain t.t.t.l.|C PEMBUATAN
+23960|Pemotongan, pembentukan dan penyiapan batu|C PEMBUATAN
+23990|Pembuatan produk mineral bukan logam lain t.t.t.l.|C PEMBUATAN
+24101|Pengeluaran jongkong besi dan spiegeleisen dalam bentuk jongkong, blok atau dalam bentuk asal lain|C PEMBUATAN
+24102|Pembuatan batang dan rod keluli tahan karat atau keluli aloi lain|C PEMBUATAN
+24103|Pembuatan tiub tidak berkelim, dengan penggelekan, picitan atau tempaan panas, atau dengan tempaan atau penggelekan sejuk|C PEMBUATAN
+24104|Pembuatan kelengkapan tiub keluli|C PEMBUATAN
+24109|Pembuatan produk besi asas dan keluli lain t.t.t.l.|C PEMBUATAN
+24201|Peleburan timah|C PEMBUATAN
+24202|Pengeluaran aluminium daripada alumina|C PEMBUATAN
+24209|Pembuatan logam asas berharga dan logam bukan ferus lain t.t.t.l.|C PEMBUATAN
+24311|Pengacuan besi|C PEMBUATAN
+24312|Pengacuan keluli|C PEMBUATAN
+24320|Pengacuan logam bukan ferus|C PEMBUATAN
+25111|Pembuatan kerangka kerja perindustrian daripada logam|C PEMBUATAN
+25112|Pembuatan bangunan pasang siap terutamanya daripada logam|C PEMBUATAN
+25113|Pembuatan pintu, tingkap dan bingkai, penutup tingkap dan pintu pagar daripada logam|C PEMBUATAN
+25119|Pembuatan produk struktur logam lain|C PEMBUATAN
+25120|Pembuatan tangki, takungan dan kontena daripada logam|C PEMBUATAN
+25130|Pembuatan penjana wap, kecuali dandang pemanasan air berpusat|C PEMBUATAN
+25200|Pembuatan senjata dan peluru|C PEMBUATAN
+25910|Tempaan, tekanan, hentakan dan bentuk gelekan logam; serbuk metalurgi|C PEMBUATAN
+25920|Rawatan dan penyalutan logam; menggunakan mesin|C PEMBUATAN
+25930|Pembuatan kutleri, alatan pertukangan tangan dan perkakasan am|C PEMBUATAN
+25991|Pembuatan tin untuk produk makanan dan minuman, tiub dan kotak boleh dilipat|C PEMBUATAN
+25992|Pembuatan kabel, plaited bands (jalur/pita berpintal) dan artikel seumpamanya daripada logam|C PEMBUATAN
+25993|Pembuatan bolt, skru, nat dan produk uliran seumpamanya|C PEMBUATAN
+25994|Pembuatan barangan rumah daripada logam|C PEMBUATAN
+25999|Pembuatan produk lain yang direka daripada logam t.t.t.l.|C PEMBUATAN
+26101|Pembuatan diod, transistor dan alatan semikonduktor yang seumpamanya|C PEMBUATAN
+26102|Pembuatan litar elektronik bersepadu dengan pemasangan mikro|C PEMBUATAN
+26103|Pembuatan kapasitor dan perintang elektrik|C PEMBUATAN
+26104|Pembuatan papan litar bercetak|C PEMBUATAN
+26105|Pembuatan komponen paparan|C PEMBUATAN
+26109|Pembuatan komponen lain untuk aplikasi elektronik|C PEMBUATAN
+26201|Pembuatan komputer|C PEMBUATAN
+26202|Pembuatan kelengkapan peranti|C PEMBUATAN
+26300|Pembuatan peralatan komunikasi|C PEMBUATAN
+26400|Pembuatan elektronik pengguna|C PEMBUATAN
+26511|Pembuatan kelengkapan mengukur, menguji, memandu arah dan kawalan|C PEMBUATAN
+26512|Pembuatan kelengkapan kawalan proses perindustrian|C PEMBUATAN
+26520|Pembuatan jam tangan dan jam dan bahagiannya|C PEMBUATAN
+26600|Pembuatan peralatan penyinaran, perubatan elektro dan elektroterapeutik|C PEMBUATAN
+26701|Pembuatan instrumen dan kelengkapan optikal|C PEMBUATAN
+26702|Pembuatan peralatan fotografi|C PEMBUATAN
+26800|Pembuatan media rakaman magnetik dan optikal|C PEMBUATAN
+27101|Pembuatan motor elektrik, penjana dan transformer|C PEMBUATAN
+27102|Pembuatan perkakasan pengagihan dan pengawalan elektrik|C PEMBUATAN
+27200|Pembuatan bateri dan akumulator|C PEMBUATAN
+27310|Pembuatan kabel gentian optikal|C PEMBUATAN
+27320|Pembuatan wayar dan kabel elektronik dan elektrik lain|C PEMBUATAN
+27330|Pembuatan alatan pendawaian pembawa dan bukan pembawa arus untuk litar elektrik (tanpa mengira jenis bahan)|C PEMBUATAN
+27400|Pembuatan kelengkapan pencahayaan elektrik|C PEMBUATAN
+27500|Pembuatan perkakasan domestik|C PEMBUATAN
+27900|Pembuatan pelbagai kelengkapan elektrik selain daripada motor, penjana dan transformer, bateri dan akumulator, wayar dan alatan pendawaian, kelengkapan pencahayaan atau perkakasan domestik|C PEMBUATAN
+28110|Pembuatan enjin dan turbin, kecuali enjin pesawat, kenderaan dan sikal|C PEMBUATAN
+28120|Pembuatan alat-alat kuasa bendalir|C PEMBUATAN
+28130|Pembuatan pam, pemampat, kepala paip dan injap lain|C PEMBUATAN
+28140|Pembuatan penggalas, gear, elemen gear dan pemanduan|C PEMBUATAN
+28150|Pembuatan ketuhar, relau dan relau pembakar|C PEMBUATAN
+28160|Pembuatan kelengkapan mengangkat dan mengendali|C PEMBUATAN
+28170|Pembuatan mesin dan kelengkapan pejabat (kecuali kelengkapan komputer dan peranti)|C PEMBUATAN
+28180|Pembuatan alatan tangan yang menggunakan kuasa dilengkapkan dengan motor elektrik atau bukan motor elektrik atau pneumatik|C PEMBUATAN
+28191|Pembuatan kelengkapan penyejukan atau pembekuan perindustrian|C PEMBUATAN
+28192|Pembuatan mesin penyaman udara, termasuk untuk kenderaan bermotor|C PEMBUATAN
+28199|Pengeluaran mesin tujuan umum lain t.t.t.l.|C PEMBUATAN
+28210|Pembuatan mesin bagi pertanian dan perhutanan|C PEMBUATAN
+28220|Pembuatan jentera pembentukan logam dan alatan mesin|C PEMBUATAN
+28230|Pengeluaran bagi jentera untuk metalurgi|C PEMBUATAN
+28240|Pembuatan mesin untuk perlombongan, pengkuarian dan pembinaan|C PEMBUATAN
+28250|Pembuatan mesin untuk makanan, minuman dan pemprosesan tembakau|C PEMBUATAN
+28260|Pembuatan mesin untuk tekstil, pakaian dan pengeluaran kulit|C PEMBUATAN
+28290|Pembuatan lain-lain mesin bertujuan khas t.t.t.l.|C PEMBUATAN
+29101|Pembuatan kereta penumpang|C PEMBUATAN
+29102|Pembuatan kenderaan komersial|C PEMBUATAN
+29200|Pembuatan kerangka (coachwork) untuk kenderaan bermotor; pembuatan treler dan semi treler|C PEMBUATAN
+29300|Pembuatan alat ganti dan aksesori untuk kenderaan bermotor|C PEMBUATAN
+30110|Pembinaan kapal dan struktur terapung|C PEMBUATAN
+30120|Pembinaan bot persiaran dan sukan|C PEMBUATAN
+30200|Pembuatan keretapi lokomotif dan rolling stock|C PEMBUATAN
+30300|Pembuatan pesawat dan kapal angkasa dan jentera berkaitan|C PEMBUATAN
+30400|Pembuatan kenderaan tempur ketenteraan|C PEMBUATAN
+30910|Pembuatan motosikal|C PEMBUATAN
+30920|Pembuatan basikal dan invalid carriages|C PEMBUATAN
+30990|Pembuatan kelengkapan pengangkutan lain t.t.t.l.|C PEMBUATAN
+31001|Pembuatan perabot kayu dan rotan|C PEMBUATAN
+31002|Pembuatan perabot logam|C PEMBUATAN
+31003|Pembuatan tilam|C PEMBUATAN
+31009|Pembuatan perabot lain kecuali daripada batu, konkrit atau seramik|C PEMBUATAN
+32110|Pembuatan barang kemas dan artikel berkaitan|C PEMBUATAN
+32120|Pembuatan barang kemas tiruan dan artikel berkaitan|C PEMBUATAN
+32200|Pembuatan instrumen muzik|C PEMBUATAN
+32300|Pembuatan barangan sukan|C PEMBUATAN
+32400|Pembuatan permainan dan mainan|C PEMBUATAN
+32500|Pembuatan peralatan dan bekalan perubatan dan pergigian|C PEMBUATAN
+32901|Pembuatan alat tulis|C PEMBUATAN
+32909|Pembuatan lain t.t.t.l.|C PEMBUATAN
+33110|Pembaikan produk logam yang direka|C PEMBUATAN
+33120|Pembaikan dan penyelenggaraan jentera dan kelengkapan industri|C PEMBUATAN
+33131|Pembaikan dan penyelenggaraan peralatan menyukat, menguji, memandu arah dan kelengkapan kawalan|C PEMBUATAN
+33132|Pembaikan dan penyelenggaraan penyinaran, perubatan elektro dan kelengkapan electrotherapeutic|C PEMBUATAN
+33133|Pembaikan bagi peralatan optikalal dan alatan fotografi|C PEMBUATAN
+33140|Pembaikan dan penyelenggaraan peralatan elektrik kecuali penggunaan domestik|C PEMBUATAN
+33150|Pembaikan dan penyelenggaraan kelengkapan pengangkutan kecuali motosikal dan basikal-basikal|C PEMBUATAN
+33190|Pembaikan dan penyelenggaraan peralatan lain t.t.t.l.|C PEMBUATAN
+33200|Pemasangan bagi perindustrian mesin dan kelengkapan|C PEMBUATAN
+35101|Operasi kemudahan penjanaan yang menghasilkan tenaga elektrik|D BEKALAN ELEKTRIK, GAS, WAP DAN PENDINGIN UDARA
+35102|Operasi penghantaran, pengagihan dan penjualan elektrik|D BEKALAN ELEKTRIK, GAS, WAP DAN PENDINGIN UDARA
+35201|Pembuatan bahan api berunsur gas yang mempunyai spesifikasi nilai calorific, mengikut penulenan, pencampuran dan proses lain dari jenis gas yang lain termasuk gas asli|D BEKALAN ELEKTRIK, GAS, WAP DAN PENDINGIN UDARA
+35202|Pengangkutan, pengagihan dan bekalan semua jenis bahan api berunsur gas melalui sistem saluran utama|D BEKALAN ELEKTRIK, GAS, WAP DAN PENDINGIN UDARA
+35203|Penjualan gas kepada pengguna melalui saluran utama|D BEKALAN ELEKTRIK, GAS, WAP DAN PENDINGIN UDARA
+35301|Pengeluaran, pengumpulan dan pengagihan wap dan air panas untuk pemanasan, tenaga dan tujuan lain|D BEKALAN ELEKTRIK, GAS, WAP DAN PENDINGIN UDARA
+35302|Pengeluaran dan pengagih udara dingin, air yang disejukkan bagi tujuan pendinginan|D BEKALAN ELEKTRIK, GAS, WAP DAN PENDINGIN UDARA
+35303|Pengeluaran ais, termasuk ais untuk tujuan makanan dan bukan makanan (cth. pendinginan)|D BEKALAN ELEKTRIK, GAS, WAP DAN PENDINGIN UDARA
+36001|Penulenan dan pengagihan air untuk tujuan bekalan air|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+36002|Penyahmasinan air laut atau bawah tanah untuk menghasilkan air sebagai kepentingan produk utama|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+37000|Pembetungan dan aktiviti-aktiviti yang seumpamanya|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38111|Pengumpulan sisa pepejal yang tidak berbahaya (cth. sampah) di kawasan setempat|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38112|Pengumpulan bahan kitar semula|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38113|Pengumpulan sampah dalam tong sampah di kawasan awam|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38114|Pengumpulan sisa pembinaan dan runtuhan|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38115|Operasi stesen pemindahan pembuangan sisa tidak berbahaya|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38121|Pengumpulan sisa berbahaya|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38122|Operasi stesen pemindahan pembuangan bagi sisa berbahaya|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38210|Rawatan dan pelupusan sisa tidak berbahaya|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38220|Rawatan dan pelupusan sisa berbahaya|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38301|Meremukkan secara mekanikal sisa logam|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38302|Meleraikan peralatan automobil, komputer, televisyen dan peralatan lain untuk pemulihan bahan|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38303|Memulih guna getah seperti tayar terpakai untuk menghasilkan bahan mentah sekunder|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38304|Penggunaan semula produk getah|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+38309|Pemulihan bahan t.t.t.l.|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+39000|Aktiviti pemulihan dan lain-lain perkhidmatan pengurusan sisa|E BEKALAN AIR; PEMBENTUNGAN, PENGURUSAN SISA DAN AKTIVITI PEMULIHAN
+41001|Bangunan kediaman|F PEMBINAAN
+41002|Bangunan bukan kediaman|F PEMBINAAN
+41003|Pemasangan dan pendirian bangunan pasang siap di tapak pembinaan|F PEMBINAAN
+41009|Pembinaan bangunan t.t.t.l.|F PEMBINAAN
+42101|Pembinaan laluan kenderaan bermotor, lorong, jalan, laluan pejalan kaki dan kenderaan lain|F PEMBINAAN
+42102|Kerja penurapan jalan, jalan raya, lebuhraya, jambatan atau terowong|F PEMBINAAN
+42103|Pembinaan jambatan termasuk untuk lebuhraya bertingkat|F PEMBINAAN
+42104|Pembinaan terowong|F PEMBINAAN
+42105|Pembinaan landasan kereta api dan laluan bawah tanah|F PEMBINAAN
+42106|Pembinaan landasan lapangan terbang|F PEMBINAAN
+42109|Pembinaan jalan raya dan landasan kereta api t.t.t.l.|F PEMBINAAN
+42201|Saluran paip jarak jauh, talian komunikasi dan kuasa|F PEMBINAAN
+42202|Saluran paip dalam bandar, talian komunikasi dan kuasa dalam bandar; kerja-kerja berkaitan dalam bandar|F PEMBINAAN
+42203|Pembinaan punca dan saluran air|F PEMBINAAN
+42204|Loji takungan|F PEMBINAAN
+42205|Pembinaan sistem pengairan (terusan)|F PEMBINAAN
+42206|Pembinaan sistem pembetungan (termasuk pembaikan) dan loji pelupusan sisa kumbahan|F PEMBINAAN
+42207|Pembinaan janakuasa|F PEMBINAAN
+42209|Pembinaan projek utiliti t.t.t.l.|F PEMBINAAN
+42901|Pembinaan loji penapisan|F PEMBINAAN
+42902|Pembinaan laluan air, kerja pelabuhan dan sungai, pleasure ports (marinas), kunci air|F PEMBINAAN
+42903|Pembinaan empangan dan daik|F PEMBINAAN
+42904|Penggalian laluan air|F PEMBINAAN
+42905|Kemudahan sukan luar dewan|F PEMBINAAN
+42906|Pembahagian tanah berserta dengan penambahbaikan tanah|F PEMBINAAN
+42909|Pembinaan projek kejuruteraan awam lain t.t.t.l.|F PEMBINAAN
+43110|Perobohan atau peranapan bangunan dan struktur lain|F PEMBINAAN
+43121|Pembersihan tapak bangunan|F PEMBINAAN
+43122|Pengalihan tanah|F PEMBINAAN
+43123|Pengujian tanah, pengerudian dan penggalian tanah untuk tujuan pembinaan, geofizikal, geologikal atau tujuan seumpamanya|F PEMBINAAN
+43124|Penyediaan tapak bagi perlombongan|F PEMBINAAN
+43125|Perparitan bagi tanah pertanian atau perhutanan|F PEMBINAAN
+43126|Kerja penebusgunaan tanah|F PEMBINAAN
+43129|Aktiviti penyediaan tapak lain t.t.t.l.|F PEMBINAAN
+43211|Pendawaian dan pemasangan elektrik|F PEMBINAAN
+43212|Pendawaian telekomunikasi|F PEMBINAAN
+43213|Pendawaian rangkaian komputer dan kabel televisyen|F PEMBINAAN
+43214|Piring satelit|F PEMBINAAN
+43215|Sistem pencahayaan|F PEMBINAAN
+43216|Sistem keselamatan|F PEMBINAAN
+43219|Pemasangan elektrik t.t.t.l.|F PEMBINAAN
+43221|Pemasangan sistem pemanasan (elektrik, gas dan minyak)|F PEMBINAAN
+43222|Pemasangan relau, menara pendinginan|F PEMBINAAN
+43223|Pemasangan pengumpul tenaga solar bukan elektrik|F PEMBINAAN
+43224|Pemasangan sistem paip dan peralatan sanitasi|F PEMBINAAN
+43225|Pemasangan peralatan dan saluran pengudaraan, penyejukan atau pendinginan udara|F PEMBINAAN
+43226|Pemasangan kelengkapan gas|F PEMBINAAN
+43227|Pemasangan sistem perenjis air untuk kebakaran dan padang|F PEMBINAAN
+43228|Pemasangan paip untuk wap|F PEMBINAAN
+43229|Pemasangan sistem paip, pemanasan dan pendinginan udara t.t.t.l.|F PEMBINAAN
+43291|Pemasangan lif, eskalator dalam bangunan atau projek pembinaan lain|F PEMBINAAN
+43292|Pemasangan pintu automatik dan berputar dalam bangunan atau projek pembinaan lain|F PEMBINAAN
+43293|Pemasangan konduktor kilat dalam bangunan atau projek pembinaan lain|F PEMBINAAN
+43294|Pemasangan sistem pembersihan vakum dalam bangunan atau projek pembinaan lain|F PEMBINAAN
+43295|Pemasangan sistem penebatan haba, bunyi atau gegaran dalam bangunan atau projek pembinaan lain|F PEMBINAAN
+43299|Pemasangan pembinaan lain t.t.t.l.|F PEMBINAAN
+43301|Pemasangan rangka pintu, tingkap, rangka/bingkai pintu dan tingkap daripada kayu atau bahan lain, dapur pasang siap, tangga, kelengkapan kedai dan perabot|F PEMBINAAN
+43302|Melapis, memasang jubin, menggantung atau memasang kelengkapan bangunan atau projek pembinaan lain daripada pelbagai bahan|F PEMBINAAN
+43303|Mengecat dalam dan luar bangunan|F PEMBINAAN
+43304|Mengecat struktur kejuruteraan awam|F PEMBINAAN
+43305|Pemasangan kaca, cermin|F PEMBINAAN
+43306|Penyiapan dalaman bangunan|F PEMBINAAN
+43307|Pembersihan bangunan baru selepas kerja pembinaan|F PEMBINAAN
+43309|Penyiapan dan kemasan bangunan lain t.t.t.l.|F PEMBINAAN
+43901|Pembinaan tapak, termasuk memantak cerucuk|F PEMBINAAN
+43902|Pembinaan elemen keluli yang bukan dibuat sendiri|F PEMBINAAN
+43903|Memasang dan membuka semula perancah dan platform kerja|F PEMBINAAN
+43904|Kerja mengikat dan menyusun bata|F PEMBINAAN
+43905|Pembinaan kolam renang luar bangunan|F PEMBINAAN
+43906|Pembersihan menggunakan stim, pancutan air deras berpasir dan aktiviti seumpamanya untuk luar bangunan|F PEMBINAAN
+43907|Penyewaan jentera dan peralatan pembinaan dengan operator (cth. kren)|F PEMBINAAN
+43909|Aktiviti pembinaan pertukangan khas lain t.t.t.l.|F PEMBINAAN
+45101|Jualan borong dan runcit kenderaan bermotor baru|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45102|Jualan borong dan runcit kenderaan bermotor terpakai|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45103|Jualan kenderaan industri, komersial dan pertanian- baru|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45104|Jualan kenderaan industri, komersial dan pertanian- terpakai|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45105|Jualan oleh agen komisen|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45106|Lelongan kereta|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45109|Jualan lain-lain kenderaan bermotor t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45201|Penyelenggaraan dan pembaikan kenderaan bermotor|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45202|Menyembur dan mengecat|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45203|Mencuci dan menggilap (cuci kereta)|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45204|Pembaikan tempat duduk kenderaan bermotor|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45205|Pemasangan komponen (termasuk alat ganti) dan aksesori bukan sebahagian daripada proses pembuatan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45300|Jualan borong dan runcit semua jenis komponen, alat ganti, bekalan, peralatan dan aksesori kenderaan bermotor|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45401|Jualan borong dan runcit motosikal|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45402|Jualan borong dan runcit komponen (termasuk alat ganti) dan aksesori motosikal|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+45403|Pembaikan dan penyelenggaraan motosikal|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46100|Jualan borong berdasarkan kontrak atau yuran|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46201|Jualan borong getah|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46202|Jualan borong minyak kelapa sawit|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46203|Jualan borong kayu balak dan kayu-kayan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46204|Jualan borong bunga-bungaan dan tumbuh-tumbuhan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46205|Jualan borong ternakan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46209|Jualan borong bahan mentah pertanian dan haiwan hidup t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46311|Jualan borong daging, unggas dan telur|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46312|Jualan borong ikan dan lain-lain makanan laut|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46313|Jualan borong buah-buahan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46314|Jualan borong sayur-sayuran|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46319|Jualan borong daging, ikan, buah-buahan dan sayur-sayuran t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46321|Jualan borong beras, bijirin lain, tepung dan gula|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46322|Jualan borong hasil tenusu|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46323|Jualan borong konfeksi|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46324|Jualan borong biskut, kek, roti dan produk bakeri lain|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46325|Jualan borong kopi, teh dan minuman lain|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46326|Jualan borong bir, wain dan spirit|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46327|Jualan borong tembakau, cerut, rokok|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46329|Jualan borong barang makanan lain|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46411|Jualan borong benang dan fabrik|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46412|Jualan borong linen, tuala dan selimut isi rumah|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46413|Jualan borong pakaian|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46414|Jualan borong aksesori pakaian|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46415|Jualan borong pakaian daripada bulu binatang|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46416|Jualan borong kasut|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46417|Jualan borong bahan jahitan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46419|Jualan borong tekstil, pakaian t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46421|Jualan borong barangan farmaseutikal dan perubatan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46422|Jualan borong pewangi, kosmetik, sabun dan kelengkapan dandanan diri|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46431|Jualan borong basikal dan komponen (termasuk alat ganti) dan aksesori|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46432|Jualan borong barangan fotografi dan optik|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46433|Jualan borong barangan kulit dan aksesori kembara|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46434|Jualan borong peralatan muzik, permainan dan barang mainan, barangan sukan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46441|Jualan borong kraftangan dan bunga tiruan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46442|Jualan borong bunga keratan dan tumbuhan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46443|Jualan borong jam tangan dan jam dinding|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46444|Jualan borong barang kemas|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46491|Jualan borong perabot isi rumah|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46492|Jualan borong perkakas isi rumah|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46493|Jualan borong peralatan lampu|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46494|Jualan borong perkakas dapur dan kutleri, pinggan mangkuk, barangan kaca dan barangan tembikar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46495|Jualan borong barangan kayu, anyaman rotan dan barangan gabus|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46496|Jualan borong barangan elektrik dan elektronik|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46497|Jualan borong alat tulis, buku, majalah dan surat khabar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46499|Jualan borong lain-lain barangan isi rumah t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46510|Jualan borong perkakasan komputer, perisian dan peranti|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46521|Jualan borong kelengkapan telefon dan telekomunikasi, telefon selular, alat kelui|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46522|Jualan borong komponen elektronik dan aksesori pendawaian|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46531|Jualan borong jentera, kelengkapan dan bekalan pertanian|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46532|Jualan borong jentera pemotong rumput sebarang cara operasi|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46591|Jualan borong mesin pejabat dan kelengkapan perniagaan, kecuali komputer dan kelengkapan peranti komputer (peripheral)|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46592|Jualan borong perabot pejabat|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46593|Jualan borong peralatan mesin berkawalan komputer|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46594|Jualan borong jentera, kelengkapan dan bekalan perindustrian|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46595|Jualan borong jentera dan kelengkapan pembinaan dan kejuruteraan awam|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46596|Jualan borong lif, eskalator, penghawa dingin, kelengkapan keselamatan dan pemadam api|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46599|Jualan borong lain-lain jentera untuk kegunaan industri, perdagangan dan pengemudian dan lain-lain perkhidmatan t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46611|Jualan borong petrol, diesel, pelincir|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46612|Jualan borong gas petroleum cecair|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46619|Jualan borong bahan api pepejal, cecair dan gas dan produk berkaitan t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46621|Jualan borong bijih besi dan bukan besi dan logam|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46622|Jualan borong bijih besi dan bukan besi dan logam separuh siap dan produk t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46631|Jualan borong kayu balak, kayu bergergaji, papan lapis, venier dan produk berkaitan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46632|Jualan borong cat dan varnis|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46633|Jualan borong bahan pembinaan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46634|Jualan borong kelengkapan dan lekapan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46635|Jualan borong pemanas air|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46636|Jualan borong pemasangan dan peralatan kebersihan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46637|Jualan borong alatan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46639|Jualan borong dan bekalan lain-lain bahan binaan, hardwer, peralatan paip dan alat pemanas t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46691|Jualan borong bahan kimia industri|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46692|Jualan borong baja dan produk agrokimia|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46693|Jualan borong bahan plastik dalam bentuk asal|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46694|Jualan borong sekerap getah|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46695|Jualan borong gentian tekstil|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46696|Jual borong kertas secara pukal, bahan pembungkusan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46697|Jual borong batu permata berharga|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46698|Jual borong bahan buangan dan sekerap dan bahan lain sama ada logam dan bukan logam untuk kitar semula|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46699|Melerai bahagian kenderaan, komputer, televisyen dan peralatan lain untuk mendapatkan bahagian yang boleh digunakan dan jual semula|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46901|Jualan borong ikan akuarium, burung dan haiwan peliharaan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46902|Jualan borong makanan haiwan/haiwan peliharaan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+46909|Jualan borong pelbagai jenis barang tanpa pengkhususan tertentu t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47111|Kedai runcit|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47112|Pasar raya|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47113|Pasar mini|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47114|Kedai ‘convenience’|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47191|Gedung serbaneka|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47192|Gedung serbaneka dan pasar raya|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47193|Pasar raya besar (Hypermarket)|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47194|Agen surat khabar dan kedai pelbagai barangan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47199|Jualan runcit lain di kedai tanpa pengkhususan t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47211|Jualan runcit beras, tepung, bijirin lain dan gula|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47212|Jualan runcit sayur-sayuran dan buah-buahan segar atau diawet|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47213|Jualan runcit produk tenusu dan telur|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47214|Jualan runcit daging dan produk daging (unggas)|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47215|Jualan runcit ikan dan makanan laut lain dan lain-lain produk yang berkaitan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47216|Jualan runcit produk bakeri dan konfeksi|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47217|Jualan runcit mi, kueh teow, mihun, kulit wantan dan produk makanan lain yang dihasilkan daripada tepung atau soya|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47219|Jualan runcit produk makanan lain t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47221|Jualan runcit bir, wain dan spirit|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47222|Jualan runcit teh, kopi, minuman ringan, air mineral dan minuman lain|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47230|Jualan runcit produk tembakau di kedai khusus|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47300|Jualan runcit di kedai khusus yang menjual bahan api kenderaan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47411|Jualan runcit komputer, peralatan dan kelengkapan komputer|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47412|Jualan runcit konsol permainan video dan sofwer bukan ditempah khas|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47413|Jualan runcit peralatan telekomunikasi|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47420|Jualan runcit peralatan audio dan video di kedai pengkhususan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47510|Jualan runcit di kedai khusus yang menjual tekstil|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47520|Jualan runcit bahan binaan, hardwer, cat dan kaca|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47531|Jualan runcit karpet dan hamparan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47532|Jualan runcit langsir dan net|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47533|Jualan runcit kertas dinding dan alas lantai|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47591|Jualan runcit perabot isi rumah|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47592|Jualan runcit peralatan lampu|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47593|Jualan runcit perkakas isi rumah, perkakas dapur dan kutleri, pinggan mangkuk, barangan kaca dan barangan tembikar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47594|Jualan runcit kayu, barangan gabus dan barangan anyaman rotan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47595|Jualan runcit perkakas isi rumah|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47596|Jualan runcit peralatan muzik dan skor|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47597|Jualan runcit sistem keselamatan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47598|Jualan runcit barangan dan peralatan isi rumah t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47611|Jualan runcit bekalan dan peralatan pejabat|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47612|Jualan runcit buku, surat khabar dan alat tulis|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47620|Jualan runcit rekod muzik, pita audio, cakera padat, kaset, pita video, VCD dan DVD, pita dan cakera kosong|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47631|Jualan runcit barangan dan peralatan sukan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47632|Jualan runcit peralatan memancing|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47633|Jualan runcit barangan perkhemahan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47634|Jualan runcit bot dan peralatannya|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47635|Jualan runcit basikal dan komponen (termasuk alat ganti) dan aksesori yang berkaitan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47640|Jualan runcit permainan dan barang mainan, diperbuat dari pelbagai bahan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47711|Jualan runcit pakaian, artikel bagi bulu binatang dan aksesori pakaian|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47712|Jualan runcit kasut|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47713|Jualan runcit barangan kulit, aksesori kulit serta gantian kulit|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47721|Jualan runcit di kedai khusus yang menjual barang farmaseutikal, perubatan dan ortopedik|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47722|Jualan runcit di kedai khusus yang menjual pewangi, kosmetik dan kelengkapan dandanan diri|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47731|Jualan runcit peralatan fotografi dan kepersisan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47732|Jualan runcit jam tangan dan jam dinding|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47733|Jualan runcit barang kemas|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47734|Jualan runcit bunga, tumbuhan, biji benih dan baja|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47735|Jualan runcit cenderahati, kraftangan dan barang keagamaan|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47736|Jualan runcit minyak tanah, gas memasak, batu arang dan kayu api|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47737|Jualan runcit cermin mata dan barang optik lain|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47738|Jualan runcit ikan akuarium, haiwan peliharaan dan makanannya|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47739|Jualan runcit di kedai khusus yang menjual barang baru lain t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47741|Jualan runcit buku terpakai|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47742|Jualan runcit barang elektrik dan elektronik terpakai|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47743|Jualan runcit barang antik|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47744|Aktiviti pusat lelongan (runcit)|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47749|Jualan runcit barangan terpakai t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47810|Jualan runcit makanan, minuman dan produk tembakau di gerai atau pasar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47820|Jualan runcit tekstil, baju dan kasut di gerai atau pasar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47891|Jualan runcit permaidani di gerai dan pasar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47892|Jualan runcit buku di gerai atau pasar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47893|Jualan runcit alat permainan dan barang mainan di gerai atau pasar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47894|Jualan runcit peralatan isi rumah dan barang elektronik di gerai atau pasar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47895|Jualan runcit rekod muzik dan video di gerai atau pasar|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47911|Jualan runcit sebarang jenis produk melalui pesanan mel|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47912|Jualan runcit sebarang jenis produk melalui internet|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47913|Jualan langsung melalui televisyen, radio dan telefon|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47914|Jualan runcit lelongan melalui internet|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47991|Jualan runcit sebarang jenis produk melalui jualan langsung atau penjualan dari pintu ke pintu|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47992|Jualan runcit sebarang jenis produk melalui mesin layan diri (vending machine)|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+47999|Jualan runcit lain bukan di kedai, gerai atau pasar t.t.t.l.|G PERDAGANGAN BORONG DAN RUNCIT, PEMBAIKAN KENDERAAN BERMOTOR DAN MOTOSIKAL
+49110|Pengangkutan penumpang antara bandar melalui laluan rel|H PENGANGKUTAN DAN PENYIMPANAN
+49120|Pengangkutan muatan antara bandar, pinggir bandar dan bandar melalui laluan rel|H PENGANGKUTAN DAN PENYIMPANAN
+49211|Perkhidmatan bas bandaraya|H PENGANGKUTAN DAN PENYIMPANAN
+49212|Perkhidmatan pengangkutan rel penumpang bandar dan pinggir bandar|H PENGANGKUTAN DAN PENYIMPANAN
+49221|Perkhidmatan bas ekspres|H PENGANGKUTAN DAN PENYIMPANAN
+49222|Perkhidmatan bas pekerja|H PENGANGKUTAN DAN PENYIMPANAN
+49223|Perkhidmatan bas sekolah|H PENGANGKUTAN DAN PENYIMPANAN
+49224|Perkhidmatan operasi teksi dan limosin|H PENGANGKUTAN DAN PENYIMPANAN
+49225|Sewa kereta dengan pemandu|H PENGANGKUTAN DAN PENYIMPANAN
+49229|Pengangkutan darat penumpang lain t.t.t.l.|H PENGANGKUTAN DAN PENYIMPANAN
+49230|Pengangkutan muatan melalui jalan raya|H PENGANGKUTAN DAN PENYIMPANAN
+49300|Pengangkutan melalui saluran paip|H PENGANGKUTAN DAN PENYIMPANAN
+50111|Operasi rombongan, cruise atau bot persiaran|H PENGANGKUTAN DAN PENYIMPANAN
+50112|Operasi feri, teksi air|H PENGANGKUTAN DAN PENYIMPANAN
+50113|Sewaan bot santai dengan krew bagi pengangkutan laut dan pesisir pantai|H PENGANGKUTAN DAN PENYIMPANAN
+50121|Pengangkutan muatan laut dan pesisir pantai, berjadual atau tidak berjadual|H PENGANGKUTAN DAN PENYIMPANAN
+50122|Pengangkutan tunda atau tolak tongkang, pelantar minyak|H PENGANGKUTAN DAN PENYIMPANAN
+50211|Pengangkutan penumpang melalui sungai, terusan, tasik dan laluan air pedalaman lain|H PENGANGKUTAN DAN PENYIMPANAN
+50212|Sewaan bot santai dengan krew bagi pengangkutan air pedalaman|H PENGANGKUTAN DAN PENYIMPANAN
+50220|Pengangkutan muatan melalui sungai, terusan, tasik dan laluan air pedalaman lain|H PENGANGKUTAN DAN PENYIMPANAN
+51101|Pengangkutan penumpang melalui udara mengikut laluan dan jadual biasa|H PENGANGKUTAN DAN PENYIMPANAN
+51102|Pengangkutan penumpang tidak berjadual|H PENGANGKUTAN DAN PENYIMPANAN
+51103|Penyewaan peralatan pengangkutan dengan operator untuk tujuan pengangkutan penumpang|H PENGANGKUTAN DAN PENYIMPANAN
+51201|Pengangkutan muatan udara mengikut laluan dan berjadual biasa|H PENGANGKUTAN DAN PENYIMPANAN
+51202|Pengangkutan muatan udara tidak berjadual|H PENGANGKUTAN DAN PENYIMPANAN
+51203|Penyewaan peralatan pengangkutan udara dengan operator untuk tujuan pengangkutan muatan|H PENGANGKUTAN DAN PENYIMPANAN
+52100|Perkhidmatan penggudangan dan penyimpanan|H PENGANGKUTAN DAN PENYIMPANAN
+52211|Operasi kemudahan terminal|H PENGANGKUTAN DAN PENYIMPANAN
+52212|Perkhidmatan tunda dan bantuan tepi jalan|H PENGANGKUTAN DAN PENYIMPANAN
+52213|Operasi kemudahan meletak kenderaan bermotor (medan letak kenderaan)|H PENGANGKUTAN DAN PENYIMPANAN
+52214|Perkhidmatan operasi lebuh raya, jambatan dan terowong|H PENGANGKUTAN DAN PENYIMPANAN
+52219|Aktiviti perkhidmatan lain berkaitan pengangkutan darat t.t.t.l.|H PENGANGKUTAN DAN PENYIMPANAN
+52221|Operasi perkhidmatan pelabuhan dan limbungan|H PENGANGKUTAN DAN PENYIMPANAN
+52222|Perkhidmatan penyelamat dan pengapungan semula kapal|H PENGANGKUTAN DAN PENYIMPANAN
+52229|Aktiviti perkhidmatan lain berkaitan pengangkutan air t.t.t.l.|H PENGANGKUTAN DAN PENYIMPANAN
+52231|Operasi kemudahan terminal|H PENGANGKUTAN DAN PENYIMPANAN
+52232|Lapangan terbang dan aktiviti kawalan trafik udara|H PENGANGKUTAN DAN PENYIMPANAN
+52233|Aktiviti perkhidmatan asas di padang terbang|H PENGANGKUTAN DAN PENYIMPANAN
+52234|Aktiviti melawan dan pencegahan api di lapangan terbang|H PENGANGKUTAN DAN PENYIMPANAN
+52239|Aktiviti perkhidmatan lain berkaitan pengangkutan udara t.t.t.l.|H PENGANGKUTAN DAN PENYIMPANAN
+52241|Perkhidmatan pemunggahan|H PENGANGKUTAN DAN PENYIMPANAN
+52249|Aktiviti pengendalian kargo lain t.t.t.l.|H PENGANGKUTAN DAN PENYIMPANAN
+52291|Penghantaran muatan|H PENGANGKUTAN DAN PENYIMPANAN
+52292|Pembrokeran ruang kapal dan kapal terbang|H PENGANGKUTAN DAN PENYIMPANAN
+52299|Aktiviti sokongan pengangkutan lain t.t.t.l.|H PENGANGKUTAN DAN PENYIMPANAN
+53100|Perkhidmatan pos nasional|H PENGANGKUTAN DAN PENYIMPANAN
+53200|Aktiviti kurier selain daripada aktiviti pos nasional|H PENGANGKUTAN DAN PENYIMPANAN
+55101|Hotel dan hotel resort|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55102|Motel|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55103|Hotel Apartmen|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55104|Chalet|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55105|Rumah rehat/rumah tetamu|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55106|Bed and breakfast unit|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55107|Asrama|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55108|Homestay|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55109|Aktiviti penginapan jangka masa pendek yang lain t.t.t.l.|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55200|Tapak perkhemahan, taman kenderaan rekreasi dan taman treler|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+55900|Penginapan lain|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56101|Restoran dan restoran yang juga kelab malam|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56102|Kafeteria/kantin|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56103|Restoran makanan segera|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56104|Trak ais krim dengan tempat duduk|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56105|Kenderaan sorong makanan yang bergerak|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56106|Gerai/penjaja makanan|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56107|Makanan dan minuman, penyediaan makanan dan minuman di dalam gerai/penjaja|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56210|Katering makanan|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56290|Aktiviti perkhidmatan makanan lain|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56301|Pub, bar, disko, coffee house, ruang koktel dan karaoke|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56302|Kedai kopi|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56303|Gerai/penjaja minuman|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56304|Perkhidmatan minuman bergerak|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+56309|Tempat minuman lain t.t.t.l.|I PENGINAPAN DAN AKTIVITI PERKHIDMATAN MAKANAN DAN MINUMAN
+58110|Penerbitan buku, brosur dan penerbitan lain|J MAKLUMAT DAN KOMUNIKASI
+58120|Penerbitan senarai mel, buku telefon dan direktori lain|J MAKLUMAT DAN KOMUNIKASI
+58130|Penerbitan surat khabar, jurnal, majalah dan penerbitan berkala dalam bentuk cetakan atau elektronik|J MAKLUMAT DAN KOMUNIKASI
+58190|Penerbitan katalog, gambar, turisan dan poskad, kad ucapan, borang, poster, penerbitan semula kerja-kerja seni, bahan pengiklanan dan bahan bercetak lain t.t.t.l.|J MAKLUMAT DAN KOMUNIKASI
+58201|Aplikasi perniagaan dan aplikasi lain|J MAKLUMAT DAN KOMUNIKASI
+58202|Permainan komputer untuk semua platform|J MAKLUMAT DAN KOMUNIKASI
+58203|Sistem operasi|J MAKLUMAT DAN KOMUNIKASI
+59110|Aktiviti pengeluaran wayang gambar, video dan program televisyen|J MAKLUMAT DAN KOMUNIKASI
+59120|Aktiviti pasca produksi wayang gambar, video dan program televisyen|J MAKLUMAT DAN KOMUNIKASI
+59130|Aktiviti pengedaran wayang gambar, video dan program televisyen|J MAKLUMAT DAN KOMUNIKASI
+59140|Aktiviti penayangan wayang gambar|J MAKLUMAT DAN KOMUNIKASI
+59200|Aktiviti rakaman bunyi dan penerbitan muzik|J MAKLUMAT DAN KOMUNIKASI
+60100|Penyiaran radio|J MAKLUMAT DAN KOMUNIKASI
+60200|Aktiviti pemprograman dan penyiaran televisyen|J MAKLUMAT DAN KOMUNIKASI
+61101|Perkhidmatan aktiviti telekomunikasi berwayar|J MAKLUMAT DAN KOMUNIKASI
+61102|Pembekal akses internet oleh operator infrastruktur berwayar|J MAKLUMAT DAN KOMUNIKASI
+61201|Perkhidmatan telekomunikasi tanpa wayar|J MAKLUMAT DAN KOMUNIKASI
+61202|Pembekal akses internet oleh operator infrastruktur tanpa wayar|J MAKLUMAT DAN KOMUNIKASI
+61300|Perkhidmatan telekomunikasi satelit|J MAKLUMAT DAN KOMUNIKASI
+61901|Penyediaan akses internet melalui rangkaian di antara pelanggan dan ISP yang bukan dimiliki atau dikawal oleh ISP|J MAKLUMAT DAN KOMUNIKASI
+61902|Penyediaan perkhidmatan telekomunikasi melalui sambungan telekom sedia ada|J MAKLUMAT DAN KOMUNIKASI
+61903|Penjualan semula telekomunikasi|J MAKLUMAT DAN KOMUNIKASI
+61904|Penyediaan perkhidmatan telekomunikasi melalui sambungan telekom VOIP (Voice Over Internet Protocol) sedia ada|J MAKLUMAT DAN KOMUNIKASI
+61905|Penyediaan aplikasi telekomunikasi yang khusus|J MAKLUMAT DAN KOMUNIKASI
+61909|Aktiviti telekomunikasi lain t.t.t.l.|J MAKLUMAT DAN KOMUNIKASI
+62010|Aktiviti pengaturcaraan komputer|J MAKLUMAT DAN KOMUNIKASI
+62021|Perundingan komputer|J MAKLUMAT DAN KOMUNIKASI
+62022|Aktiviti pengurusan kemudahan komputer|J MAKLUMAT DAN KOMUNIKASI
+62091|Sistem keselamatan Teknologi Maklumat dan Komunikasi (ICT)|J MAKLUMAT DAN KOMUNIKASI
+62099|Aktiviti perkhidmatan teknologi maklumat lain t.t.t.l.|J MAKLUMAT DAN KOMUNIKASI
+63111|Aktiviti penyediaan infrastruktur untuk hosting, perkhidmatan prosesan data dan aktiviti yang berkaitan|J MAKLUMAT DAN KOMUNIKASI
+63112|Aktiviti prosesan data|J MAKLUMAT DAN KOMUNIKASI
+63120|Web portal|J MAKLUMAT DAN KOMUNIKASI
+63910|Aktiviti agensi dan sindiket berita|J MAKLUMAT DAN KOMUNIKASI
+63990|Aktiviti perkhidmatan maklumat lain t.t.t.l.|J MAKLUMAT DAN KOMUNIKASI
+64110|Perbankan pusat|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64191|Bank Perdagangan|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64192|Bank Islam|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64193|Bank Luar Pesisir Pantai|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64194|Bank Pelaburan|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64195|Institusi Pembangunan Kewangan (dengan fungsi pengambilan deposit)|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64199|Perantaraan kewangan lain (dengan fungsi pengambilan deposit) t.t.t.l.|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64200|Aktiviti syarikat pemegang|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64301|Syarikat modal usahasama|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64302|Unit tabung amanah tidak termasuk REITs|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64303|Harta unit amanah (REITs)|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64304|Pengurusan akaun amanah lain|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64309|Entiti amanah, tabung dan kewangan seumpamanya t.t.t.l.|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64910|Aktiviti pajakan kewangan|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64921|Institusi pembangunan kewangan (tanpa fungsi pengambilan deposit)|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64922|Perkhidmatan kad kredit|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64923|Aktiviti peminjaman wang berlesen|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64924|Kedai pajak gadai dan tukang pajak termasuk Ar-Rahnu|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64925|Koperasi dengan fungsi kredit|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64929|Pemberian kredit lain t.t.t.l.|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64991|Syarikat pemfaktoran|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64992|Wakil pejabat bank asing|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64993|Syarikat nomini|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+64999|Aktiviti perkhidmatan kewangan lain, kecuali insurans/takaful dan tabungan pencen, t.t.t.l.|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65111|Insurans Hayat|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65112|Takaful keluarga|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65121|Insurans am|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65122|Takaful am|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65123|Insurans komposit|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65124|Insurans luar pesisir pantai|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65125|Takaful luar pesisir pantai|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65201|Insurans semula hayat|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65202|Takaful semula keluarga|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65203|Insurans semula am|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65204|Takaful semula am|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65205|Takaful semula komposit|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65206|Insurans semula luar pesisir pantai|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65207|Takaful semula luar pesisir pantai|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65301|Tabungan pencen|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+65302|Tabungan hemat|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66111|Bursa saham|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66112|Bursa untuk kontrak komoditi|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66113|Bursa sekuriti|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66114|Bursa kontrak komoditi masa hadapan|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66119|Pentadbiran pasaran kewangan t.t.t.l.|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66121|Broker stok, saham dan bon|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66122|Broker dan peniaga komoditi|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66123|Peniaga jongkong emas|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66124|Broker dan peniaga tukaran wang asing (Bureaux de change)|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66125|Perkhidmatan pengurup wang|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66129|Broker dan peniaga kewangan dan komoditi masa hadapan lain|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66191|Perkhidmatan penasihat pelaburan|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66192|Perkhidmatan perundingan kewangan|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66199|Aktiviti sokongan kepada kewangan t.t.t.l.|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66211|Perkhidmatan penyesuaian insurans|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66212|Perkhidmatan penyesuaian takaful|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66221|Ejen insurans|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66222|Ejen takaful|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66223|Broker insurans|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66224|Broker takaful|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66290|Aktiviti sokongan kepada insurans, takaful dan tabungan pencen lain|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66301|Pengurusan tabung pencen|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66302|Pengurusan aset/portfolio|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+66303|Syarikat pengurusan unit amanah|K AKTIVITI KEWANGAN DAN INSURANS/TAKAFUL
+68101|Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan – bangunan kediaman|L AKTIVITI HARTANAH
+68102|Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan - bangunan bukan kediaman|L AKTIVITI HARTANAH
+68103|Pembelian, penjualan, penyewaan dan pengendalian bagi hartanah milikan sendiri atau pajakan - tanah|L AKTIVITI HARTANAH
+68104|Pembangunan bagi projek yang dibina untuk operasi sendiri spt. untuk sewaan ruang di dalam bangunan|L AKTIVITI HARTANAH
+68109|Aktiviti hartanah bagi harta milikan sendiri atau pajakan t.t.t.l.|L AKTIVITI HARTANAH
+68201|Aktiviti agen dan broker hartanah untuk pembelian, penjualan dan penyewaan hartanah|L AKTIVITI HARTANAH
+68202|Pengurusan hartanah atas dasar bayaran atau kontrak|L AKTIVITI HARTANAH
+68203|Perkhidmatan penilaian hartanah|L AKTIVITI HARTANAH
+68209|Aktiviti hartanah atas dasar bayaran atau kontrak t.t.t.l.|L AKTIVITI HARTANAH
+69100|Aktiviti guaman|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+69200|Aktiviti perakaunan, simpan kira dan audit; perundingan percukaian|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+70100|Aktiviti ibu pejabat|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+70201|Perkhidmatan perundingan pengurusan perniagaan|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+70202|Perkhidmatan perundingan sumber manusia|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+70203|Perkhidmatan perundingan perhubungan awam dan komunikasi|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+70209|Aktiviti perundingan pengurusan lain t.t.t.l.|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+71101|Perkhidmatan arkitek|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+71102|Perkhidmatan kejuruteraan|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+71103|Perkhidmatan juru ukur tanah|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+71109|Aktiviti arkitek dan kejuruteraan lain dan perundingan teknikal berkaitan t.t.t.l.|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+71200|Ujian teknikal dan analisis|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72101|Penyelidikan dan pembangunan sains semula jadi|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72102|Penyelidikan dan pembangunan kejuruteraan dan teknologi|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72103|Penyelidikan dan pembangunan sains perubatan|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72104|Penyelidikan dan pembangunan bioteknologi|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72105|Penyelidikan dan pembangunan sains pertanian|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72106|Penyelidikan dan pembangunan teknologi maklumat dan komunikasi|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72109|Penyelidikan dan pembangunan sains semula jadi dan kejuruteraan lain t.t.t.l.|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72201|Penyelidikan dan pembangunan sains sosial|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72202|Penyelidikan dan pembangunan kemanusiaan|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+72209|Penyelidikan dan pembangunan sosial sains dan kemanusiaan lain, t.t.t.l.|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+73100|Pengiklanan|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+73200|Penyelidikan pasaran dan tinjauan pendapat umum|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74101|Aktiviti hiasan dalaman|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74102|Perkhidmatan pereka grafik|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74103|Perkhidmatan rekaan fesyen|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74109|Aktiviti reka bentuk khusus t.t.t.l.|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74200|Aktiviti fotografi|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74901|Aktiviti penterjemahan dan pentafsiran|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74902|Aktiviti broker perniagaan|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74903|Perunding keselamatan|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74904|Aktiviti juru ukur bahan|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74905|Aktiviti perunding selain daripada perunding arkitek, kejuruteraan dan pengurusan|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+74909|Aktiviti profesional, saintifik dan teknikal lain t.t.t.l.|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+75000|AKTIVITI VETERINAR|M AKTIVITI PROFESIONAL, SAINTIFIK DAN TEKNIKAL
+77101|Penyewaan dan pemajakan operasi kereta penumpang (tanpa pemandu)|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77102|Penyewaan dan pemajakan operasi trak, treler pelbagai guna dan kenderaan rekreasi|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77211|Penyewaan dan pemajakan bot peranginan, kenu, perahu layar|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77212|Penyewaan dan pemajakan basikal|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77213|Penyewaan dan pemajakan kerusi pantai dan payung|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77219|Penyewaan dan pemajakan kelengkapan sukan lain t.t.t.l.|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77220|Penyewaan pita video, piring hitam, CD, DVD|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77291|Penyewaan dan pemajakan barang tekstil, pakaian dan kasut|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77292|Penyewaan dan pemajakan barang perabot, tembikar dan kaca, perkakas dapur, barang elektrik dan peralatan rumah|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77293|Penyewaan dan pemajakan barang kemas, peralatan muzik, hiasan latar dan kostum|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77294|Penyewaan dan pemajakan buku, jurnal dan majalah|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77295|Penyewaan dan pemajakan mesin dan kelengkapan yang digunakan oleh amatur atau sebagai hobi|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77296|Penyewaan pokok dan bunga|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77297|Penyewaan dan pemajakan kelengkapan elektronik untuk kegunaan isi rumah|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77299|Penyewaan dan pemajakan barangan persendirian dan isi rumah lain t.t.t.l.|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77301|Penyewaan dan pemajakan operasi, tanpa operator, untuk mesin dan kelengkapan lain yang biasanya digunakan sebagai barang modal oleh industri|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77302|Penyewaan dan pemajakan operasi, tanpa pemandu, kelengkapan pengangkutan darat (selain daripada kenderaan bermotor)|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77303|Penyewaan dan pemajakan operasi kelengkapan pengangkutan air tanpa pengendali|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77304|Penyewaan dan pemajakan operasi kelengkapan pengangkutan udara tanpa pengendali|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77305|Penyewaan dan pemajakan operasi jentera dan kelengkapan pertanian dan perhutanan tanpa pengendali|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77306|Penyewaan dan pajakan operasi jentera dan kelengkapan pembinaan dan kejuruteraan awam tanpa pengendali|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77307|Sewaan dan pajakan operasi jentera dan kelengkapan pejabat tanpa pengendali|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77309|Penyewaan dan pajakan mesin bagi jentera, kelengkapan dan barang ketara t.t.t.l.|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+77400|Pemajakan harta intelektual dan produk seumpamanya, kecuali kerja berhakcipta|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+78100|Aktiviti agensi penempatan pekerjaan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+78200|Aktiviti agensi pekerjaan sementara|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+78300|Penyediaan sumber manusia kepada perniagaan pelanggan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+79110|Aktiviti agensi pengembaraan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+79120|Aktiviti operator pelancongan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+79900|Khidmat penempahan lain dan aktiviti berkaitan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+80100|Aktiviti keselamatan persendirian|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+80200|Aktiviti perkhidmatan sistem keselamatan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+80300|Aktiviti detektif dan penyiasatan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81100|Aktiviti sokongan gabungan pelbagai kemudahan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81210|Pembersihan am bangunan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81291|Pembersihan semua jenis bangunan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81292|Perkhidmatan pembersihan dan penyelenggaraan kolam renang|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81293|Pembersihan mesin perindustrian|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81294|Pembersihan keretapi, bas dan kapal terbang|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81295|Perkhidmatan pembersihan kawalan haiwan perosak yang tiada kaitan dengan pertanian|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81296|Aktiviti disinfeksi dan penghapusan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81297|Pembersihan kapal tangki|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81299|Aktiviti pembersihan bangunan dan perindustrian t.t.t.l.|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+81300|Aktiviti perkhidmatan penjagaan dan penyelenggaraan lanskap|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82110|Gabungan aktiviti perkhidmatan pengurusan pejabat|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82191|Penyediaan dokumen, penyuntingan dan/atau membaca pruf|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82192|Menaip, word processing atau desktop publishing|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82193|Perkhidmatan sokongan kesetiausahaan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82194|Transkripsi dokumen dan perkhidmatan kesetiausahaan lain|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82195|Penyediaan penyewaan peti surat dan perkhidmatan mel lain|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82196|Fotokopi, pendua, bluprint|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82199|Aktiviti fotokopi, penyediaan dokumen dan lain-lain aktiviti sokongan pejabat khusus t.t.t.l.|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82200|Aktiviti pusat panggilan|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82301|Mengurus, mempromosi dan/atau mengendali acara|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82302|Mesyuarat, insentif, konvensyen, pameran (MICE)|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82910|Aktiviti agensi kutipan dan biro kredit|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82920|Aktiviti pembungkusan berdasarkan kontrak atau yuran sama ada melibatkan proses automatik atau tidak|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+82990|Aktiviti perkhidmatan sokongan perniagaan t.t.t.l.|N AKTIVITI PENTADBIRAN DAN KHIDMAT SOKONGAN
+84111|Aktiviti perkhidmatan awam am (keseluruhan)|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84112|Aktiviti perkhidmatan sampingan untuk kerajaan secara keseluruhannya|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84121|Perkhidmatan pentadbiran pendidikan|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84122|Perkhidmatan pentadbiran penjagaan kesihatan|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84123|Perkhidmatan pentadbiran perumahan dan kerajaan tempatan|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84124|Perkhidmatan pentadbiran rekreasi, kebudayaan, kesenian dan sukan|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84125|Perkhidmatan pentadbiran hal ehwal agama|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84126|Perkhidmatan pentadbiran kebajikan|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84129|Perkhidmatan hal ehwal komuniti dan sosial lain|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84131|Hal ehwal perdagangan domestik dan antarabangsa|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84132|Hal ehwal pertanian dan pembangunan luar bandar|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84133|Hal ehwal perusahaan utama|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84134|Hal ehwal kerja awam|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84135|Hal ehwal pengangkutan|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84136|Hal ehwal tenaga, telekomunikasi dan pos|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84137|Hal ehwal pelancongan|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84138|Hal ehwal sumber manusia|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84139|Peraturan dan sumbangan lain ke arah kecekapan operasi perniagaan t.t.t.l.|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84210|Hal ehwal luar negeri|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84220|Aktiviti pertahanan|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84231|Perkhidmatan polis|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84232|Perkhidmatan penjara|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84233|Perkhidmatan imigresen|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84234|Perkhidmatan pendaftaran negara|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84235|Perkhidmatan badan kehakiman dan perundangan|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84236|Pemadaman dan pencegahan kebakaran|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84239|Perkhidmatan berkaitan hal ehwal ketenteraman dan keselamatan awam lain|O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+84300|Aktiviti keselamatan sosial wajib cth. SOCSO |O PENTADBIRAN AWAM DAN PERTAHANAN; AKTIVITI KESELAMATAN SOSIAL WAJIB
+85101|Pendidikan pra-sekolah (Awam)|P PENDIDIKAN
+85102|Pendidikan pra-sekolah (Swasta)|P PENDIDIKAN
+85103|Pendidikan rendah (Awam)|P PENDIDIKAN
+85104|Pendidikan rendah (Swasta)|P PENDIDIKAN
+85211|Pendidikan menengah am (Awam)|P PENDIDIKAN
+85212|Pendidikan menengah am (Swasta)|P PENDIDIKAN
+85221|Pendidikan menengah teknik dan vokasional di bawah tahap pendidikan tinggi (Awam)|P PENDIDIKAN
+85222|Pendidikan menengah teknik dan vokasional di bawah tahap pendidikan tinggi (Swasta)|P PENDIDIKAN
+85301|Pendidikan kolej dan universiti (Awam)|P PENDIDIKAN
+85302|Pendidikan kolej dan universiti (Swasta)|P PENDIDIKAN
+85411|Pengajaran sukan|P PENDIDIKAN
+85412|Pengajaran seni mempertahankan diri|P PENDIDIKAN
+85419|Pendidikan sukan dan rekreasi lain yang t.t.t.l.|P PENDIDIKAN
+85421|Sekolah muzik dan tarian|P PENDIDIKAN
+85429|Pendidikan kebudayaan lain yang t.t.t.l.|P PENDIDIKAN
+85491|Pusat tuisyen|P PENDIDIKAN
+85492|Sekolah memandu|P PENDIDIKAN
+85493|Pengajaran agama|P PENDIDIKAN
+85494|Latihan komputer|P PENDIDIKAN
+85499|Pendidikan lain t.t.t.l.|P PENDIDIKAN
+85500|Perkhidmatan sokongan pendidikan untuk peruntukan kepada perkhidmatan bukan pengajaran|P PENDIDIKAN
+86101|Aktiviti hospital|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86102|Perkhidmatan rumah bersalin (luar hospital)|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86201|Perkhidmatan perubatan am|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86202|Perkhidmatan perubatan khas|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86203|Perkhidmatan berkaitan gigi|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86901|Pusat dialisis|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86902|Makmal perubatan|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86903|Perkhidmatan fisioterapi dan terapi pekerjaan|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86904|Perkhidmatan akupunktur|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86905|Perkhidmatan ahli herba dan homeopati|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86906|Perkhidmatan ambulan|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+86909|Perkhidmatan kesihatan kemanusiaan lain t.t.t.l.|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+87101|Rumah untuk orang tua dengan perawatan|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+87102|Rumah penjagaan|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+87103|Paliatif atau hospis|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+87201|Pusat pemulihan dadah|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+87209|Aktiviti rumah penjagaan lain untuk orang terencat akal t.t.t.l.|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+87300|Aktiviti rumah penjagaan untuk orang tua dan orang kurang upaya|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+87901|Rumah anak yatim|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+87902|Perkhidmatan rumah kebajikan|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+87909|Aktiviti rumah penjagaan lain t.t.t.l.|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+88101|Aktiviti penjagaan harian untuk orang tua atau orang dewasa yang cacat|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+88109|Aktiviti kerja sosial lain tanpa penginapan untuk orang tua dan orang kurang upaya|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+88901|Perkhidmatan kaunseling|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+88902|Aktiviti penjagaan harian kanak-kanak|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+88909|Aktiviti kerja sosial lain tanpa penginapan t.t.t.l.|Q AKTIVITI KESIHATAN KEMANUSIAAN DAN KERJA SOSIAL
+90001|Perkhidmatan penerbit teater, penyanyi kumpulan pancaragam dan hiburan orkestra|R KESENIAN, HIBURAN DAN REKREASI
+90002|Operasi dewan konsert dan teater serta kemudahan kesenian lain|R KESENIAN, HIBURAN DAN REKREASI
+90003|Aktiviti pemahat, pelukis, kartunis, pengukir, penggores|R KESENIAN, HIBURAN DAN REKREASI
+90004|Aktiviti penulis perseorangan, untuk semua subjek|R KESENIAN, HIBURAN DAN REKREASI
+90005|Aktiviti jurnalis bebas|R KESENIAN, HIBURAN DAN REKREASI
+90006|Pembaikan hasil kesenian seperti lukisan|R KESENIAN, HIBURAN DAN REKREASI
+90007|Aktiviti penerbit atau pengusaha seni persembahan secara langsung, dengan atau tanpa kemudahan|R KESENIAN, HIBURAN DAN REKREASI
+90009|Aktiviti kesenian, hiburan dan kreatif t.t.t.l.|R KESENIAN, HIBURAN DAN REKREASI
+91011|Aktiviti dokumentasi dan maklumat bagi semua jenis perpustakaan|R KESENIAN, HIBURAN DAN REKREASI
+91012|Penyimpanan foto perpustakaan dan perkhidmatan|R KESENIAN, HIBURAN DAN REKREASI
+91021|Operasi semua jenis muzium|R KESENIAN, HIBURAN DAN REKREASI
+91022|Operasi tapak dan bangunan bersejarah|R KESENIAN, HIBURAN DAN REKREASI
+91031|Operasi taman botani dan zoologi|R KESENIAN, HIBURAN DAN REKREASI
+91032|Operasi rizab semula jadi, termasuk pemeliharaan hidupan liar|R KESENIAN, HIBURAN DAN REKREASI
+92000|AKTIVITI PERJUDIAN DAN PERTARUHAN|R KESENIAN, HIBURAN DAN REKREASI
+93111|Bola sepak, hoki, kriket, besbol, badminton, futsal, paintball|R KESENIAN, HIBURAN DAN REKREASI
+93112|Litar perlumbaan untuk kenderaan bermotor|R KESENIAN, HIBURAN DAN REKREASI
+93113|Kelab ekuestrian|R KESENIAN, HIBURAN DAN REKREASI
+93114|Stadium dan kolam renang, arena luncur ais|R KESENIAN, HIBURAN DAN REKREASI
+93115|Padang stadium dan balapan|R KESENIAN, HIBURAN DAN REKREASI
+93116|Padang golf|R KESENIAN, HIBURAN DAN REKREASI
+93117|Pusat boling|R KESENIAN, HIBURAN DAN REKREASI
+93118|Pusat kesihatan|R KESENIAN, HIBURAN DAN REKREASI
+93119|Penganjuran dan operasi acara sukan dalam dan luar bangunan untuk profesional atau amatur oleh organisasi dengan kemudahan sukan sendiri|R KESENIAN, HIBURAN DAN REKREASI
+93120|Operasi kelab sukan seperti kelab bola sepak, kelab boling, kelab renang|R KESENIAN, HIBURAN DAN REKREASI
+93191|Aktiviti penganjur atau promosi acara sukan, dengan atau tanpa kemudahan|R KESENIAN, HIBURAN DAN REKREASI
+93192|Aktiviti liga sukan dan badan yang mengawal|R KESENIAN, HIBURAN DAN REKREASI
+93193|Aktiviti berkaitan dengan promosi acara sukan|R KESENIAN, HIBURAN DAN REKREASI
+93199|Aktiviti sukan lain t.t.t.l.|R KESENIAN, HIBURAN DAN REKREASI
+93210|Aktiviti taman hiburan dan taman tema|R KESENIAN, HIBURAN DAN REKREASI
+93291|Aktiviti taman rekreasi dan pantai|R KESENIAN, HIBURAN DAN REKREASI
+93292|Operasi kemudahan pengangkutan rekreasi|R KESENIAN, HIBURAN DAN REKREASI
+93293|Sewaan peralatan riadah sebagai kelengkapan untuk kemudahan rekreasi|R KESENIAN, HIBURAN DAN REKREASI
+93294|Operasi pesta dan pertunjukan rekreasi semula jadi|R KESENIAN, HIBURAN DAN REKREASI
+93295|Operasi kelab malam dan lantai tari|R KESENIAN, HIBURAN DAN REKREASI
+93296|Aktiviti penganjur atau pengusaha persembahan secara langsung selain daripada acara kesenian atau sukan, dengan atau tanpa kemudahan|R KESENIAN, HIBURAN DAN REKREASI
+93297|Kafe siber/pusat internet|R KESENIAN, HIBURAN DAN REKREASI
+93299|Aktiviti hiburan dan rekreasi lain t.t.t.l.|R KESENIAN, HIBURAN DAN REKREASI
+94110|Aktiviti keahlian organisasi perniagaan dan majikan|S AKTIVITI PERKHIDMATAN LAIN
+94120|Aktiviti keahlian organisasi profesional|S AKTIVITI PERKHIDMATAN LAIN
+94200|Aktiviti kesatuan buruh|S AKTIVITI PERKHIDMATAN LAIN
+94910|Aktiviti organisasi keagamaan|S AKTIVITI PERKHIDMATAN LAIN
+94920|Aktiviti organisasi politik|S AKTIVITI PERKHIDMATAN LAIN
+94990|Aktiviti keahlian organisasi lain t.t.t.l.|S AKTIVITI PERKHIDMATAN LAIN
+95111|Pembaikan peralatan elektronik|S AKTIVITI PERKHIDMATAN LAIN
+95112|Pembaikan dan penyelenggaraan terminal komputer|S AKTIVITI PERKHIDMATAN LAIN
+95113|Pembaikan dan penyelenggaraan hand-held computers (PDA’s)|S AKTIVITI PERKHIDMATAN LAIN
+95121|Pembaikan dan penyelengaraan telefon tanpa wayar|S AKTIVITI PERKHIDMATAN LAIN
+95122|Pembaikan dan penyelenggaraan telefon selular|S AKTIVITI PERKHIDMATAN LAIN
+95123|Pembaikan dan penyelengaraan peralatan carrier modems|S AKTIVITI PERKHIDMATAN LAIN
+95124|Pembaikan dan penyelengaraan mesin faks|S AKTIVITI PERKHIDMATAN LAIN
+95125|Pembaikan dan penyelengaraan peralatan transmisi komunikasi|S AKTIVITI PERKHIDMATAN LAIN
+95126|Pembaikan dan penyelenggaraan radio dua hala|S AKTIVITI PERKHIDMATAN LAIN
+95127|Pembaikan dan penyelengaraan TV komersial dan kamera video|S AKTIVITI PERKHIDMATAN LAIN
+95211|Pembaikan dan penyelenggaraan TV dan penerima radio|S AKTIVITI PERKHIDMATAN LAIN
+95212|Pembaikan dan penyelenggaraan VCR/DVD/VCD|S AKTIVITI PERKHIDMATAN LAIN
+95213|Pembaikan dan penyelenggaraan pemain CD|S AKTIVITI PERKHIDMATAN LAIN
+95214|Pembaikan dan penyelenggaraan kamera video bagi isi rumah|S AKTIVITI PERKHIDMATAN LAIN
+95221|Pembaikan dan penyenggaraan kelengkapan isi rumah|S AKTIVITI PERKHIDMATAN LAIN
+95222|Pembaikan dan penyenggaraan peralatan rumah dan halaman|S AKTIVITI PERKHIDMATAN LAIN
+95230|Pembaikan kelengkapan kasut dan barangan kulit|S AKTIVITI PERKHIDMATAN LAIN
+95240|Pembaikan perabut dan kelengkapan rumah|S AKTIVITI PERKHIDMATAN LAIN
+95291|Pembaikan basikal|S AKTIVITI PERKHIDMATAN LAIN
+95292|Pembaikan dan pemindaan pakaian|S AKTIVITI PERKHIDMATAN LAIN
+95293|Pembaikan dan pemindaan barangan kemas|S AKTIVITI PERKHIDMATAN LAIN
+95294|Pembaikan jam tangan, jam dan kelengkapannya|S AKTIVITI PERKHIDMATAN LAIN
+95295|Pembaikan barangan sukan|S AKTIVITI PERKHIDMATAN LAIN
+95296|Pembaikan peralatan muzikal|S AKTIVITI PERKHIDMATAN LAIN
+95299|Pembaikan barangan persendirian dan isi rumah t.t.t.l.|S AKTIVITI PERKHIDMATAN LAIN
+96011|Pencucian dan cucian kering, menggosok|S AKTIVITI PERKHIDMATAN LAIN
+96012|Mensyampo karpet dan permaidani, serta pengeringan dan cucian langsir sama ada di premis pengguna atau sebaliknya|S AKTIVITI PERKHIDMATAN LAIN
+96013|Penyediaan linen, baju seragam dan perkara berkaitan dengan cucian|S AKTIVITI PERKHIDMATAN LAIN
+96014|Perkhidmatan pembekalan pengalas|S AKTIVITI PERKHIDMATAN LAIN
+96020|Dandanan rambut dan penjagaan kecantikan lain|S AKTIVITI PERKHIDMATAN LAIN
+96031|Penyediaan pengurusan mayat untuk pengebumian atau pembakaran dan perkhidmatan pengawetan mayat|S AKTIVITI PERKHIDMATAN LAIN
+96032|Perkhidmatan penyediaan pengebumian atau pembakaran|S AKTIVITI PERKHIDMATAN LAIN
+96033|Penyewaan ruang yang lengkap dalam bilik pengebumian|S AKTIVITI PERKHIDMATAN LAIN
+96034|Penyewaan dan penjualan ruang kubur|S AKTIVITI PERKHIDMATAN LAIN
+96035|Penyelenggaraan kubur dan makam|S AKTIVITI PERKHIDMATAN LAIN
+96091|Aktiviti sauna, mandian stim, salon mengurut|S AKTIVITI PERKHIDMATAN LAIN
+96092|Aktiviti astrologikal dan kerohanian|S AKTIVITI PERKHIDMATAN LAIN
+96093|Aktiviti sosial seperti perkhidmatan pengiring, temujanji dan biro perkahwinan|S AKTIVITI PERKHIDMATAN LAIN
+96094|Perkhidmatan jagaan haiwan|S AKTIVITI PERKHIDMATAN LAIN
+96095|Organisasi genealogikal|S AKTIVITI PERKHIDMATAN LAIN
+96096|Pengilat kasut, porter, valet memakir kereta|S AKTIVITI PERKHIDMATAN LAIN
+96097|Operasi konsensi bagi perkhidmatan mesin duit syiling untuk kegunaan persendirian|S AKTIVITI PERKHIDMATAN LAIN
+96099|Aktiviti perkhidmatan lain t.t.t.l.|S AKTIVITI PERKHIDMATAN LAIN
+97000|Aktiviti isi rumah sebagai majikan bagi personel domestik|T AKTIVITI ISI RUMAH SEBAGAI MAJIKAN; AKTIVITI MENGELUARKAN BARANGAN DAN PERKHIDMATAN YANG TIDAK DAPAT DIBEZAKAN OLEH ISI RUMAH UNTUK KEGUNAAN SENDIRI
+98100|Aktiviti mengeluarkan barangan yang tidak dapat dibezakan oleh isi rumah persendirian untuk kegunaan sendiri|T AKTIVITI ISI RUMAH SEBAGAI MAJIKAN; AKTIVITI MENGELUARKAN BARANGAN DAN PERKHIDMATAN YANG TIDAK DAPAT DIBEZAKAN OLEH ISI RUMAH UNTUK KEGUNAAN SENDIRI
+98200|Aktiviti menyediakan perkhidmatan yang tidak dapat dibezakan oleh isi rumah persendirian untuk kegunaan sendiri|T AKTIVITI ISI RUMAH SEBAGAI MAJIKAN; AKTIVITI MENGELUARKAN BARANGAN DAN PERKHIDMATAN YANG TIDAK DAPAT DIBEZAKAN OLEH ISI RUMAH UNTUK KEGUNAAN SENDIRI
+99000|Aktiviti badan dan pertubuhan luar wilayah|U AKTIVITI BADAN DAN PERTUBUHAN LUAR WILAYAR

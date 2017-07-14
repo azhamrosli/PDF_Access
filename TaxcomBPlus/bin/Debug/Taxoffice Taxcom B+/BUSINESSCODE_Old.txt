@@ -1,0 +1,697 @@
+01111|Menanam padi
+01112|Menanam tembakau
+01113|Menanam tebu
+01114|Menanam ubi kayu
+01115|Ladang getah
+01116|Kebun kecil getah
+01117|Ladang kelapa sawit
+01118|Kebun kecil kelapa sawit
+01119|Menanam tanaman lain t.t.m. (contoh: ubi keledek, ubi keladi, jagung, kacang tanah, sagu)
+01121|Menanam sayur-sayuran (termasuk cendawan)
+01129|Menanam pokok bunga bagi tujuan tanaman atau hiasan
+01131|Menanam koko
+01132|Menanam teh
+01133|Menanam kopi
+01134|Menanam nenas
+01135|Menanam pisang
+01136|Menanam pokok lada ("pepper")
+01137|Menanam kelapa (ladang dan kebun kecil)
+01138|Menanam durian
+01139|Menanam buah-buahan lain (termasuk tanaman campuran)
+01211|Menternak lembu
+01212|Menternak ayam-itik
+01213|Menternak babi
+01219|Ternakan-ternakan lain
+01300|Perladangan campuran
+01400|Perkhidmatan pertanian dan penternakan haiwan kecuali aktiviti veterinar
+01500|Pemburuan, pemerangkapan dan pembiakan untuk pemburuan termasuk perkhidmatan berkaitan
+02001|Pembalakan (kecuali pembalakan kayu getah)
+02002|Pengumpulan rotan dan hasil hutan yang lain
+02003|Pengeluaran arang (dihasilkan di dalam hutan)
+02004|Mengutip sagu
+02005|Mengutip sarang burung
+02006|Pembalakan kayu getah
+02009|Perkhidmatan perhutanan t.t.m.
+05001|Perikanan laut dalam dan pesisir pantai
+05002|Perikanan air tawar
+05003|Akuakultur
+05009|Perikanan t.t.m.
+10100|Melombong arang batu dan lignit; mengeluar gambut
+11100|Mengeluar minyak mentah dan gas asli
+11200|Perkhidmatan sampingan yang berkaitan dengan pengeluaran minyak mentah dan gas asli tidak termasuk peninjauan ("surveying")
+12000|Melombong uranium dan bijih thorium
+13100|Melombong bijih besi
+13201|Melombong bijih timah
+13202|Amang "retreatment"
+13203|Melombong tembaga
+13204|Melombong emas
+13205|Melombong bauksit
+13206|Melombong ilmenite
+13209|Melombong bijih logam bukan-ferus yang lain
+14101|Kuari granit
+14102|Kuari batu kapur
+14103|Melombong pasir dan batu kelikir
+14104|Melombong kaolin ("china clay")
+14105|Melombong tanah liat bola/tanah liat plastik ("ball clay"/"plastic clay")
+14106|Melombong tanah liat yang lain
+14107|Melombong barytes
+14108|Melombong batu silica
+14109|Kuari batu-batan lain t.t.m.
+14211|Mengeluar guano dan batu fosfat
+14219|Melombong galian bahan kimia dan baja yang lain
+14220|Mengeluar garam
+14290|Melombong dan mengkuari t.t.m.
+15111|Ayam itik dan produk ayam itik
+15119|Memproses dan mengawet produk daging yang lain
+15120|Ikan dan produk ikan
+15131|Mengetin nenas
+15139|Mengetin dan mengawet buah-buahan dan sayur-sayuran yang lain
+15141|Minyak kelapa
+15142|Minyak kelapa sawit mentah
+15143|Minyak kelapa sawit bertapis
+15144|Minyak isirong kelapa sawit
+15149|Minyak dan lemak sayur dan binatang yang lain
+15201|Membuat aiskrim
+15202|Susu pekat, susu tepung dan susu cair
+15209|Produk tenusu yang lain
+15311|Padi
+15312|Tepung
+15319|Pengilangan bijian-bijian lain (termasuk bijirin sarapan)
+15321|Kanji
+15322|Glukos dan sirap glukos, maltos
+15323|Sagu dan tepung/produk ubi kayu
+15329|Produk kanji yang lain
+15330|Mengilang makanan haiwan yang tersedia
+15411|Biskut
+15412|Roti, kek dan produk "bakery" yang lain
+15420|Gula
+15431|Produk koko
+15432|Produk coklat dan konfeksi gula
+15440|Makaroni, mee dan produk-produk seumpamanya
+15491|Ais (tidak termasuk ais kering)
+15492|Kopi
+15493|Teh
+15494|Rempah dan serbuk rempah kari
+15495|Kacang dan produk kacang
+15496|Sos termasuk ekstrak perasa seperti monosodium glutamat
+15497|Snek seperti keropok ikan/kentang/ubi kayu/pisang
+15499|Produk makanan lain t.t.m.
+15510|Menyuling dan mengadun arak; pengeluaran alkohol dari bahan yang ditapaikan (tidak termasuk minuman keras malt dan malt)
+15520|Wain
+15530|Minuman keras malt dan malt
+15541|Minuman ringan dan air bergas
+15542|Air mineral
+16000|Mengilang produk tembakau
+17111|Memintal dan menenun bahan asli ("natural fibre")
+17112|Memintal dan menenun tekstil buatan ("man-made fibre")
+17121|Mencelup, meluntur, mencetak dan menyempurnakan benang dan fabrik (tidak termasuk batik)
+17122|Membuat batik
+17210|Barang-barang daripada tekstil kecuali pakaian
+17220|Permaidani dan alas lantai
+17230|Tali, tali-temali, tali-pintal dan jaring
+17291|Kerja tangan memintal dan menenun
+17299|Tekstil lain t.t.m.
+17300|Fabrik dan barangan yang dikait dan dikrusye
+18101|Mengilang pakaian
+18102|Menjahit pakaian/membuat baju yang ditempah khas
+18109|Mengilang pakaian lain t.t.m.
+18200|Membersih dan mewarna bulu binatang; mengilang barangan daripada bulu binatang
+19110|Menyamak dan membersih kulit
+19120|Bagasi, beg tangan, pelana, peralatan kuda dan bahan gantian kulit
+19200|Kasut
+20100|Mengilang papan dan mengetam kayu
+20211|Kepingan venir dan papan lapis
+20212|Laminboard dan papan serpai
+20220|Alat-alat pertukangan kayu dan kerja tangan
+20230|Bekas dari kayu dan rotan
+20291|Arang
+20299|Produk-produk lain daripada kayu, rotan, gabus dan jerami t.t.m.
+21010|Palpa, kertas dan papan kertas ("paperboard")
+21020|Kertas berombak ("corrugated paper") dan kotak daripada kertas dan papan kertas
+21091|Kertas karbon
+21092|Sampul surat, kad atau poskad kosong
+21093|Tisu tandas, tisu, kertas kesat mulut
+21094|Barang-barang kertas untuk kegunaan rumah (contoh: pinggan dan cawan kertas, straw)
+21095|Tuala wanita, napkin pakai-buang bagi bayi
+21096|Kertas bergam/berpelekat dalam bentuk gulung atau kepingan dan label, kertas dinding
+21097|Kertas kegunaan sembahyang dan pengkebumian
+21099|Barang-barang palpa, kertas dan papan kertas t.t.m.
+22110|Buku-buku, brosur, buku-buku muzik dan penerbitan lain
+22120|Suratkhabar, jurnal dan periodikal
+22130|Penerbitan media berekod kecuali rakaman semula (22300), penerbitan wayang dan video (92111) dan perisian komputer (72200)
+22190|Penerbitan-penerbitan lain
+22210|Percetakan
+22220|Perkhidmatan berkaitan dengan percetakan (termasuk penjilidan)
+22300|Menghasil semula media rakaman (termasuk rekod, video, pita komputer, perisian, filem. Tidak termasuk percetakan dan merekod bunyi (92492))
+23100|Produk "cike oven"
+23200|Produk petroleum bertapis
+23300|Memproses bahan api nuklea
+24111|Gas industri (mampat, cecair atau pejal)
+24119|Bahan kimia asas industri yang lain tidak termasuk baja dan kompaun nitrogen 
+24120|Baja dan kompaun nitrogen
+24130|Plastik bentuk asal, polimer asli dan getah tiruan
+24210|Racun perosak dan produk agrokimia yang lain
+24221|Cat, varnis dan bahan-bahan salutan seumpamanya dan mastik
+24222|Dakwat percetakan
+24230|Ubat/farmasi, bahan kimia perubatan dan produk botani
+24240|Sabun dan serbuk pencuci, bahan pencuci dan pengilat, pewangi, alat solek dan kegunaan di bilik mandi seperti ubat gigi, syampu dll
+24290|Produk kimia lain t.t.m.
+24300|Gentian buatan ("man-made fibres")
+25111|Tayar dan tiub
+25112|Tayar celup
+25191|Mengilang semula getah dan memproses susu getah
+25192|Rumah asap getah
+25193|Sarung tangan getah
+25199|Produk-produk getah lain t.t.m.
+25201|Produk plastik menggunakan acuan ("blow moulded")
+25202|Produk plastik "extruded"
+25203|Beg plastik dan filem
+25204|Produk plastik (gentian tegas bertetulang)
+25205|Produk busa plastik
+25206|Komponen plastik (pengacuan suntikan)
+25209|Keluaran plastik t.t.m.
+26100|Kaca dan produk kaca
+26910|Tembikar bukan berstruktur dan bukan refraktori
+26920|Produk tembikar refraktori
+26930|Produk tanah liat dan tembikar yang berstruktur dan bukan refraktori
+26941|Simen hidrolik
+26942|Kapur dan plaster
+26951|Konkrit siap bancuh
+26959|Produk-produk konkrit, simen dan plaster yang lain
+26960|Memotong, membentuk dan menyempurnakan batu
+26990|Produk galian bukan logam yang lain t.t.m.
+27100|Mengilang produk besi dan keluli asas
+27201|Peleburan timah
+27209|Logam berharga dan bukan ferus yang lain 
+27310|Mengacuankan besi dan keluli
+27320|Mengacuankan logam bukan ferus
+28110|Produk logam struktur ("structural metal")
+28120|Tangki, takungan dan bekas logam
+28910|Menukang, menekan, menghentakkan dan menguling besi panas; metalurgi serbuk 
+28920|Menyalut logam, kerja0kerja kejuruteraan mekanikal am berasaskan bayaran fi atau kontrak
+28930|Pisau, garpu, sudu, senduk, perralatan tangan dan barang besi yang umum
+28991|Tin dan kotak logam
+28992|Dawai dan produk dawai dan kancing logam
+28999|Barang-barang buatan logam lain t.t.m.
+29110|Mesin dan mesin turbin selain daripada untuk kapal terbang dan kenderaan
+29120|Pam, penekan, paip, dan injap
+29130|"Bearing", "gear", "gearing" dan kelengkapan/peralatan bagi kenderaan yang dipandu
+29140|Ketuhar, relau dan pembakar relau
+29150|Peralatan untuk mengangkat dan mengendali ("lifting and handling equipment")
+29191|Mesin penyaman udara, pengalih udara dan penyeuk
+29199|Mesin-mesin lain untuk kegunaan am t.t.m.
+29210|Mesin pertanian dan perhutanan 
+29220|Mesin perkakas kecil
+29230|Mesin untuk metalurgi
+29240|Mesin untuk kerja-kerja perlombongan, kuari dan pembinaan
+29250|Mesin memproses makanan, minuman dan tembakau
+29260|Mesin membuat tekstil, pakaian dan produk kulit
+29270|Senjata dan peluru
+29290|Mesin-mesin lain untuk kegunaan khusus t.t.m.
+29300|Peralatan rumah t.t.m. (contoh: peti sejuk, mesin pencuci pakaian, ketuhar dll)
+30001|Mesin pejabat dan perakaunan
+30002|Komputer dan peralatan komputer
+31100|Motor elektrik, generator dan transformer
+31200|Peralatan pengedaran dan kawalan elektrik
+31301|Kabel dan wayar telekomunikasi
+31302|kabel dan wayar kuasa letrik
+31309|Wayar dan kabel penebat yang lain t.t.m.
+31400|Akumulator, sel asas dan bateri asas
+31500|Lampu elektrik dan kelengkapan pengcahayaan
+31600|Mengilang alat letrik rumah
+31900|Kelengkapan elektrik lain t.t.m.
+32101|Alat semikonduktor
+32102|Injap dan tiup elektronik dan papan litar bercetak
+32109|Komponen elektronik yang lain t.t.m.
+32200|Pemancar televisyen dan radio, dan peralatan talian telefon dan telegraf
+32300|Alat penerimaan ("receivers") siaran televisten dan radio, peralatan rakaman suara atau video atau alat menghasil semula, dan barangan berkaitan 
+33110|Kelengkapan perubatan dan pembedahan, dan peralatan ortopedik
+33120|Instrumen dan peralatan untuk mengukur, memeriksa, menguji, mengemudi dan tujuan-tujuan lain kecuali peralatan kawalan proses industri
+33130|Peralatan kawalan proses industri
+33201|Instrumen optik
+33202|Peralatan fotografi
+33300|Jam tangan dan jam 
+34100|Kenderaan bermotor
+34200|Badan/gerabak untuk kenderaan bermotor, mengilang trailer dan separuh trailer
+34300|Alat ganti dan aksesori kenderaan bermotor dan enjin kenderaan
+35110|Membina dan membaiki kapal
+35120|Membina dan membaiki bot kegunaan sukan atau riadah
+35200|Lokomotif keretapi dan "tramway", dan :rolling stock"
+35300|Kapal udara dan kapal angkasa
+35910|Motosikal
+35920|Basikal dan pengangkutan beroda bagi orang sakit
+35990|Alat pengangkutan t.t.m.
+36101|Perabut kayu dan rotan
+36102|Perabut logam
+36109|Perabut lain kecuali diperbuat daripada batu, konkrit atau seramik
+36910|Barang kemas dan barang yang berkaitan
+36920|Alat muzik
+36930|Peralatan sukan
+36940|Permainan dan permainan kanak-kanak
+36991|Penyapu, berus dan mop
+36992|Pen, pensil dan bekalan kegunaan pejabat dan pelukis
+36993|Payung
+36999|Mengilang barang lain t.t.m.
+37101|Mengitar semula tin
+37109|Mengitar semula lain-lain sisa dan sekerap lagam
+37201|Mengitar semula "textile fibres"
+37202|Mengitar semula getah
+37209|Mengitar semula sisa dan sekerap bukan-logam
+40100|Pengeluaran, pengumpulan dan pengedaran elektrik
+40200|Mengilang gas dan mengedar bahan api bergas melalui saluran
+40300|Bekalan wap dan air panas
+41000|Pengumpulan, penapisan dan pengedaran air
+45101|Merobohkan bangunan atau struktur-struktur lain dan membersihkan tapak
+45102|Kerja-kerja penyediaan tanah (seperti menambak, merata dan membuang tanah)
+45103|Menyediakan tapak perlombongan tidak termasuk penyediaan tapak lombong minyak dan gas
+45104|Kerja-kerja penebusgunaan ("reclamation") tanah
+45109|Kerja-kerja penyediaan tapak t.t.m.
+45201|Bangunan kediaman
+45202|Bangunan bukan kediaman
+45203|Pembinaan jalan raya, jambatan, terowong, jejambat, lebuhraya, jalan keretapi, padang terbang ("airfields"), pelaburan dll
+45204|Pembinaan empangan, sistem pengaliran, sistem perparitan dan kumbahan, saluran paip dan kerja-kerja projek air yang lain
+45205|Talian komunikasi dan kuasa
+45206|Kemudahan sukan termasuk stadium, padang golf dll
+45209|Kejuruteraan awam yang lain
+45301|Kerja memasang paip dan tangki kebersihan, dan pembetungan
+45302|Pendawaian lektrik dan kerja pemasangan
+45303|Kerja pembinaan pagar dan susur
+45304|Kerja pembinaan eskalator dan lif
+45305|Kerja pembinaan kelengkapan gas
+45306|Kerja pemasangan sistem-sistem pencegah kebakaran, keselamatan dan telekomunikasi
+45307|Kerja pemasangan alat-alat pemanas, penyaman dan pengalih udara dan alat penyejuk
+45309|Kerja pemasangan lain t.t.m.
+45401|Kerja-kerja yang menyumbang kepada penyempurnaan bangunan
+45402|Mengecat dan menghias
+45403|Mengempelas lantai, pertukangan kayu kemasan, kerja akustik dan pembersihan bahagian luaran
+45409|Kerja penyempurnaan lain t.t.m.
+45500|Menyewa kelengkapan binaan atau meroboh bersama dengan operator
+50101|Jualan borong kereta, van dan pacuan 4-roda - baru
+50102|Jualan borong kereta, van dan pacuan 4-roda - terpakai
+50103|Jualan borong kenderaan industri dan komersil - baru
+50104|Jualan borong kenderaan industri dan komersil - terpakai
+50109|Jualan borong kenderaan bermotor yang lain
+50111 |ualan runcit kereta, van dan pacuan 4-roda - baru
+50112|Jualan runcit kereta, van dan pacuan 4-roda - terpakai
+50119|Jualan runcit kenderaan bermotor t.t.m
+50201|Menyelenggara dan membaiki kereta, van dan pacuan-roda
+50202|Menyelenggara dan membaiki kenderaan industri dan komersil:
+50301|Jualan borong alat ganti dan aksesori kereta, van dan pacuan 4-roda
+50302|Jualan borong alat ganti dan aksesori kenderaan industri dan komersil
+50303|Jualan runcit alat ganti dan aksesori kenderaan bermotor
+50401|Jualan borong motorsikal, alat ganti dan aksesori yang berkaitan
+50402|Jualan runcit motorsikal, alat ganti dan aksesori yang berkaitan
+50500|Jualan runcit bahan api automotif
+51100|Jualan borong berasakan bayaran fi atau kontrak
+51211|Getah
+51212|Kelapa sawit
+51213|Binatang ternakan
+51214|Kayu balak dan kayu gergaji
+51215|Pokok dan tumbuhan dipasu
+51219|Produk pertanian lain t.t.m.
+51221|Daging, ayam/itik dan telor
+51222|Ikan dan makanan laut yang lain
+51223|Buah-buahan
+51224|Sayur-sayuran
+51231|Beras, biji-bijian lain, tepung dan gula
+51232|Produk tenusu
+51233|Kofeksi
+51234|Biskut, kek, roti dan produk-produk bakeri yang lain
+51235|Kopi, teh dan minuman "beverage" lain
+51236|Minuman ringan dan air mineral
+51237|Bir, wain dan arak
+51238|Tembakau, cerut, rokok dan lain-lain
+51239|Makanan lain (contoh: mee, kueh teow, kulit wantan dan produk yang berkaitan, minyak masak, makanan dalam tin dll
+51311|Tekstil, pakaian, linen, tuala dan selimut
+51312|Kasut
+51321|Perkakas dan peralatan sukan
+51322|Basikal dan alat berkaitan
+51323|Permainan dan permainan kanak-kanak
+51324|Barang kulit dan barang untuk perjalanan (kecuali kasut dan pakaian kulit)
+51325|Kraftangan dan bunga tiruan
+51326|Bunga (telah potong) dan tumbuhan
+51391|Barang-barang farmasi, ortopedik dan perubatan, minyak wangi, kosmetik dan kelengkapan dandanan diri ("toiletries")
+51392|Buku, surat khabar, majalah dan alat tulis
+51393|Barang kemas, jam dan jam tangan, dan barang-barang perak
+51394|Peralatan dan bekalan fotografi
+51395|Barangan optikal
+51396|Perkakasan ("hardware") rumak, perkakas dapur, barangan tembikar, kaca, hiasan, dll
+51397|Peralatan rumah, radio dan televisyen, alat muzik, rekod dan pita muzik
+51398|Perabut, kelengkapan, kertas dinding dan penutup lantai ("floor coverings")
+51399|Barangan rumah yang lain, contoh: bahan pencuci, barangan konsumer yang lain
+51411|Petrol, disel, minyak pelincir dll.
+51412|Gas petroleum cair
+51419|Bahan api dalam bentuk pepejal, cecair dan gas serta produk yang berkaitan (contoh: arang, minyak tanah, parafin, kayu api dll)
+51420|Logam, bijih logam dan logam buatan
+51431|Balak, balak digergaji, papan lapis, venir dan produk yang berkaitan
+51432|Bahan binaan, perkaksan untuk pembina, peralatan untuk pemasangan paip dan alat pemanas
+51491|Baja
+51492|Sekerap logam
+51493|Bahan bukan logam
+51499|Produk perantaraan, sisa dan sekerap t.t.m
+51511|Kelengkapan dan aksesori telekomunikasi
+51512|Komponen elektrik dan elektronik, dan aksesori pendawaian
+51520|Mesin pejabat dan kelengkapan perniagaan (contoh: mesin daftar tunai)
+51530|Perkakasan, perisian dan peralatan komputer
+51591|Mesin dan kelengkapan untuk perindustrian, pertanian, pembinaan dan kejuruteraan awam
+51592|Lif, eskalator, penyaman udara, alat-alat keselamatan dan pencegah kebakaran
+51593|Kelengkapan dan peralatan marin, kapal udara dan pengakutan t.t.m
+51599|Mesin dan kelengkapan lain t.t.m. contoh: peralatan kegunaan professional, saintifik dan kepersisan ("precision")
+51911|Ikan akuarium, burung, dan haiwan peliharaan yang lain
+51912|Makanan haiwan/haiwan peliharaan
+51913|Bahan kulit dan PVC
+51915|Kertas, produk selofan ("cellophone") dan bahan pembungkus
+51916|Bekalan untuk pertanian dan ladang (contoh: biji-benih, stok bagi tapak semaian dan hortikultur)
+51919|Komoditi spesifik t.t.m.
+51920|Kedai jualan borong am ("non-specialized wholesale stores")
+52111|Kedai runcit ("provision stores")
+52112|Pasaraya
+52113|Pasar Mini
+52114|"Convenience store"
+52191|Gedung serbaneka ("department store")
+52192|Gedung serbaneka dan pasaraya
+52193|Wakil penjual akhbar dan kedai runcit
+52199|Jualan runcit am yang lain t.t.m.
+52211|Daging dan ayam/itik (segar atau dibekukan)
+52212|Ikan dan makanan laut yang lain
+52213|Buah-buahan
+52214|Sayur-sayuran
+52221|Beras, tepung dan biji-bijian lain
+52222|Konfeksi (gula-gula dll)
+52223|Biskut, kek, roti dan produk bakeri yang lain
+52224|Bir, wain dan arak
+52225|Minuman ringan
+52226|Teh, kopi dan minuman "beverage" lain
+52227|Tembakau, cerut, rokok dan lain-lain
+52229|Mee, kuey teow, mee hoon, kulit wantan dan makanan lain t.t.m. (termasuk makanan dalam tin, minyak masak, gula, produk tenusu dll)
+52310|Barang farmasi, perubatan dan ortopedik, minyak wangi, kosmetik dan kelengkapan dandanan diri ("toiletries")
+52321|Tekstil, linen, tuala, selimut dll
+52322|Barangan pakaian dan pakaian berbulu dan aksesori pakaian
+52323|Kasut
+52324|Barangan kulit dan aksesori perjalanan
+52331|Barangan-barangan kegunaan rumah, dapur, pinggan-mangkuk, kaca, hiasan dll.
+52332|Perkakas eleltrik rumah, kelengkapan radio dan televisyen
+52333|Perabut dan kelengkapan
+52334|Lampu dan aksesori lampu
+52339|Perkakas dan kelengkapan rumah t.t.m.
+52340|Perkakasan ("hardware"), cat dan kaca
+52351|Peralatan sukan dan rekreasi
+52352|Basikal
+52353|Permainan dan permainan kanak-kanak
+52354|Alat muzik, pita muzik, rekod, cakera padat dan pita video
+52355|Ikan-ikan akuarium
+52356|Haiwan dan burung peliharaan serta makanan haiwan peliharaan
+52359|Barang rekreasi yang lain seperti lukisan, wang siling dll.
+52360|Komputer, kelengkapan komputer, perisian ("non-customized software") dan mesin cetak 
+52370|Peralatan telekomunikasi
+52381|Peralatan fotografi
+52382|Cermin mata dan barangan optik yang lain
+52383|Peralatan saintifik dan kepersisan ("precision equipment")
+52391|Kelengkapan dan bekalan pejabat
+52392|Jam, jam tangan, barang kemas dan barang perak
+52393|Gas petroleum cair (gas dapur)
+52394|Buku, majalah, suratkhabar dan alat-alat tulis
+52395|Bunga dan tumbuh-tumbuhan
+52399|Jualan runcit barang-barang lain di kedai/gedung yang khusus t.t.m.
+52401|Buku
+52402|Barang elektrik dan elektronik
+52403|Kedai pajak gadai
+52404|Barangan antik
+52409|Barang terpakai yang lain t.t.m.
+52511|Jualan runcit melalui pesanan ("mail order house")
+52512|Jualan runcit melalui jualan langsung ("direct selling")
+52520|Jualan runcit melalui warung/gerai dan pasar
+52590|Jualan runcit bukan di gedung t.t.m.
+52601|Membaiki kasut dan barang kulit yang lain
+52602|Membaiki perkakas dan barangan elektrik dan elektronik
+52603|Membaki jam tangan, jam dan barang kemas
+52604|Membaiki basikal
+52609|Membaiki barang kegunaan persendirian/rumah t.t.m.
+55101|Hotel
+55102|Tempat perkhemahan dan tempat penginapan jangka pendek yang lain
+55211|Restoran dan restoran dengan kelab malam
+55212|Restoran makanan segera
+55213|Kedai kopi
+55214|Kafe, bar makanan snek (termasuk "lunch counters" dan "refreshment stands")
+55215|Kantin
+55216|Penyedia/penyaji makanan ("food caterers")
+55217|Pubs, bars, coffee houses, cocktail lounges dan karaoke
+55219|Tempat makanan dan minuman t.t.m.
+55221|Gerai makanan/penjaja
+55222|Gerai minuman/penjaja
+55223|Gerai makanan dan minuman/penjaja
+60100|Perkhidmatan keretapi
+60211|Perkhidmatan bas (perkhidmatan bas "stage", mini dan ekspress)
+60212|Perkhidmatan bas kilang
+60213|Perkhidmatan bas sekolah
+60214|Perkhidmatan pengangkutan pinggir bandar untuk penumpang (contoh: LRT, KTM komuter dan monorail)
+60219|Pengangkutan darat untuk penumpang berjadual t.t.m.
+60221|Teksi, kereta sewa (bersama pemandu) dan perkhidmatan limosin
+60229|Pengangkutan darat untuk penumpang tidak berjadual t.t.m.
+60230|Pengangkutan barang melalui jalan raya
+60300|Pengangkutan melalui saluran paip (termasuk gas, cecair)
+61101|Pengangkutan penumpang menggunakan kapal dan feri
+61102|Pengangkutan barangan menggunakan jalan air/laut dan pesisir pantai
+61103|Perkhidmatan menarik dan menolak pengangkutan air
+61109|Pengangkutan laut dan pesisir pantai untuk penumpang atau barangan t.t.m.
+61201|Perkhidmatan pengangkutan penumpang menggunakan bot dan sampan
+61202|Perkhidmatan pengangkutan air di pedalaman bagi barangan
+61209|Pengangkutan air di pedalaman t.t.m.
+62101|Perkhidmatan pengangkutan udara bagi penumpang - domestik dan antarabangsa
+62109|Pengangkutan udara berjadual yang lain (contoh: perkhidmatan helikopter( t.t.m.
+62201|Perkhidmatan memberi sewa kapal udara sama ada bersama dengan operator atau tidak, sewa khas kapal udara ("aircraft chartering")
+62209|Pengangkutan udara tidak berjadual t.t.m.
+63011|Perkhidmatan pemunggah kargo ("stevedoring")
+63019|Perkhidmatan mengendalikan kargo t.t.m.
+63020|Penyimpan (stor dan gudang)
+63031|Pengendalian operasi rel
+63032|Mengusahakan perniagaan tempat letak kereta ("parking lots")
+63033|Operasi lebuhraya, jambatan dan terowong
+63034|Penyelamat kapal dan perkhidmatan mengapungkan semula 
+63035|Operasi Pelabuhan
+63036|Operasi lapangan terbang (tidak termasuk pengendalian kargo)
+63039|Pengangkutan sokongan t.t.m.
+63041|Perkhidmatan agensi pelancongan dan operator pelancongan (termasuk perkhidmatan pemandu pelancong)
+63042|Perkhidmatan menempah teksi dan limosin
+63049|Aktiviti agensi pelancongan, operator pelancongan dan bantuan pelancong t.t.m.
+63091|Perkhidmatan agensi penghantaran barangan
+63092|Agensi perkapalan
+63099|Agensi pengangkutan lain t.t.m.
+64110|Perkhidmatan pos nasional
+64120|Penghantaran selain daripada pos nasional
+64201|Perkhidmatan telefon (awam dan bimbit)
+64202|Perkhidmatan penyiaran televisyen dan radio
+64203|Komunikasi data (termasuk operasi rangkaian)
+64204|Perkhidmatan "paging"
+64209|Perkhidmatan telekomunikasi lain t.t.m.
+65110|Bank Pusat
+65191|Bank perdagangan
+65192|Bank luar pesisir
+65193|Bank saudagar
+65194|Syarikat kewangan
+65195|Rumah diskaun
+65196|Institusi penyimpanan/tabungan (contoh: Bank Simpanan Nasional, Koperasi Perumahan, Lembaga Urusan Tabung Haji)
+65197|Institusi pembangunan kewangan (contoh: MIDF, Bank Pembangunan Malaysia, Bank Pertanian Malaysia, Bank Industri Malaysia)
+65199|Kewangan Lain t.t.m.
+65910|Syarikat pajakan kewangan
+65921 |Syarikat faktoring
+65922|Perkhidmatan kad kredit
+65929|Perkhidmatan kredit t.t.m.
+65991|Syarikat pemegang pelaburan
+65992|Syarikat urusan pelaburan
+65993|Syarikat nominee
+65994 |Unit Amanah
+66010|Insurans nyawa (termasuk insuran semula)
+66021|Tabung bantuan simpan
+66022|Tabung bantuan pencen 
+66031|Insurans marin, penerbangan dan transit
+66032|Insurans kenderaan bermotor
+66033|Insurans api dan kerosakan harta-harta lain
+66034|Insurans kemalangan dan kesihatan
+66035|Insurans pengangkutan barangan ("freight")
+66039|Insurans lain t.t.m.
+67110|Operasi dan perkhimatan kawalan pasaran kewangan (contoh: KLSE, SC, KLOffe, CDS, KLC)
+67121|Broker stok, saham dan bon
+67122|Broker dan dealer komoditi
+67123|Dealer emas jongkong
+67129|Broker dan dealer kewangan hadapan yang lain ("financial futures")
+67191|Perkhidmatan tukaran wang asing
+67192|Perkhidmatan perundingan kewangan 
+67199 |Perkhidmatan tambahan (kewangan) t.t.m.
+67201|Insurans dan perkhidmatan agensi
+67202|Perkhidmatan pelaras insurans
+67209|Perkhidmatan tambahan (insurans dan tabung bantuan pencen) t.t.m.
+70101|Pembangunan harta tanah
+70102|Operasi harta tanah
+70200|Aktiviti harta tanah berasaskan bayaran fi atau kontrak
+71111|Penyewaan kereta persendirian
+71112|Penyewaan motosikal
+71113|Penyewaan dan pejakan lori, trak, trailer dan kontena
+71114|Penyewaan dan pemajakan  "caravan" dan "camper"
+71119|Penyewaan pengangkutan darat t.t.m.
+71121|Pemajakan kapal dan bot (termasuk sewa khas)
+71129|Penyewaan pengangkutan air t.t.m.
+71130|Penyewaan pengangkutan udara
+71210|Mesin dan peralatan pertanian
+71220|Mesin dan peralatan pembinaan dan kejuruteraan awam
+71230|Mesin dan peralatan pejabat (termasuk komputer)
+71290|Mesin dan kelengkapan t.t.m.
+71301|Televisyen, perakam video kaset dan peralatan yang berkaitan
+71302|Perabut
+71303|Pita video (termasuk cakera padat dan cakera laser)
+71304|Perkakasan teater
+71305|Peralatan rekreasi t.t.m. (contoh: basikal, kuda tunggang, bot riadah, peralatan sukan)
+71309|Penyewaan barangan persendirian dan barangan rumah t.t.m.
+72100|Perundingan perkakasan komputer ("hardware consultancy")
+72200|Perundingan dan pembekal perisian ("software consultancy and supply")
+72300|Perkhidmatan pemerosesan data
+72400|Aktiviti pangkalan data (termasuk pembangunan pangkalan data, storan data, penyediaan data)
+72500|Penyenggaraan dan pembaikan mesin pejabat, mesin perakaunan, komputer dan peralatan berkaitan dengan komputer
+72900|Aktiviti lain berkaitan dengan komputer
+73101|Sains fizikal
+73102|Kimia dan biologi
+73103|Kejuruteraan dan teknologi
+73104|Sains Pertanian
+73105|Sains perubatan dan farmasi
+73109|Sains semula jadi yang lain
+73201|Sains kebudayaan, sosiologi dan psikologi
+73202|Ekonomi
+73203|Undang-undang
+73204|Linguistik dan bahasa lain
+73209|Sains sosial dan kemanusiaan yang lain
+74110|Perkhidmatan perundangan
+74120|Perkhidmatan perakaunan, simpan kira dan auditan, dan perundingan cukai
+74130|Penyelidikan pasaran dan pemungutan suara umum ("public opinion polling")
+74141|Perundingan pengurusan estet
+74142|Perundingan pengurusan am
+74143|Perundingan pengurusan perhubungan awam
+74144|Perundingan pengurusan projek
+74149|Perundingan perniagaan dan pengurusan yang lain
+74211|Perkhidmatan perundingan senibina
+74212|Perkhidmatan perundingan kejuruteraan
+74213|Perkhidmatan perundingan ukur tanah dan ukur bahan
+74219|Perundingan senibina dan kejuruteraan yang lain dan perundingan teknikal yang berkaitan t.t.m.
+74220 |Pengujian dan analisis teknikal
+74300|Pengiklanan
+74910|Perkhidmatan pengambilan pekerja dan menyediakan personel
+74920|Perkhidmatan penyiasatan dan keselamatan
+74931|Perkhidmatan mencuci bangunan
+74932|Perkhidmatan pembasmian kuman dan penghapusan serangga
+74940|Perkhidmatan fotografi (perdagangan dan pengguna)
+74950|Perkhidmatan "packaging" berasaskan bayaran fi atau kontrak
+74991|Perkhidmatan menjawab telefon
+74992|Memungut bil, pengadaran kredit (credit rating), "direct mailing" pengiklanan melalui mel dan aktiviti seumpamanya
+74993|Aktiviti agensi untuk mendapatkan penghibur, atau acara-acara sukan
+74994|Perkhidmatan penyalinan ("duplicating services")
+74999|Perkhidmatan perniagaan yang lain t.t.m.
+75110|Aktiviti am (keseluruhan) perkhidmatan awam
+75121|Pentadbiran perkhidmatan pendidikan
+75122|Pentadbiran perkhidmatan kesihatan
+75123|Pentadbiran perkhidmatan perumahan dan kerajaan tempatan
+75124|Pentadbiran perkhidmatan rekreasi, kebudayaan dan sukan
+75125|Pentadbiran perkhidmatan keugamaan
+75129|Perkhidmatan komuniti dan sosial yang lain
+75131|Perdagangan domestik dan antarabangsa
+75132|Pertanian dan pembangunan luarbandar
+75133|Perusahaan utama
+75134|Kerja-kerja awam
+75135|Pengangkutan
+75136|Tenaga, telekomunikasi dan pos
+75137|Pelancongan
+75138|Sumber manusia
+75139|Rentadbiran yang mengawal serta menyumbang terhadap pengendalian perniagaan yang lebih efisien t.t.m.
+75140|Perkhidmatan awam
+75210|Hal-ehwal luar negara
+75220|Perkhidmatan angkatan tentera dan pertahanan awam
+75231|Perkhidmatan polis
+75232|Perkhidmatan penjara
+75233|Perkhidmatan imigresen
+75234|Perkhidmatan pendaftaran negara
+75235|Perkhidmatan badan kehakiman dan perundangan
+75236|Perkhidmatan bomba
+75239|Perkhidmatan lain yang berkaitan dengan peraturan awam dan keselamatan
+75300|Keselamatan sosial berwajib ("compulsory social security")
+80101|Sekolah/taman bimbingan kanak-kanak (taska) dan tadika
+80102|Sekolah rendah
+80210|Sekolah menengah umum
+80220|Sekolah menengah teknikal dan vokasional
+80301|Kolej dan universiti
+80302|Institusi teknikal dan perdagangan
+80303|Sekolah jururawat
+80901|Sekolah memandu
+80902|Sekolah muzik dan tarian
+80909|Pendidikan orang dewasa dan vokasional yang lain t.t.m.
+85110|Perkhidmatan hospital
+85121|Perkhidmatan perubatan; contoh: klinik swasta (tidak termasuk perkhidmatan hospital dan aktiviti paramedik seperti bidan)
+85122|Perkhidmatan pergigian
+85191|Perkhidmatan rumah penjagaan ("nursing home")
+85192|Perkhidmatan fisioterapi dan terapi pekerjaan
+85193|Perkhidmatan ahli herba dan homeopati
+85194|Perkhidmatan ambulan
+85199|Perkhidmatan kesihatan manusia t.t.m.
+85200|Perkhidmatan veterinar
+85311|Perkhidmatan kebajikan untuk kanak-kanak (contoh: rumah anak yatim)
+85312|Perkhidmatan rumah orang tua
+85313|Pengendalian pusat perlindungan untuk wanita
+85314|Perkhidmatan rumah juvenil
+85315|Pengendalian rumah orang cacat
+85316|Perkhidmatan rumah pemulihan dadah
+85319|Kerja sosial yang lain di mana tempat tinggal disediakan
+85321|Perkhidmatan kaunseling
+85322|Pengendalian persatuan "alcoholic anonymous"
+85324|Perkhidmatan sukarela berkaitan dengan mengumpul dan mengagih dana untuk tujuan kebajikan 
+85325|Perkhidmatan jagaan harian kanak-kanak ("day-care")
+85329|Aktiviti kerja sosial t.t.m.
+89932|Produk loyang, tembaga, pewter dan aluminium
+90001|Pembuangan kumbahan, sanitasi dan seumpamanya
+90002|Perkhidmatan pembuangan sampah
+90003|Perkhidmatan memungut dan membuang bahan buangan industri
+91110|Organisasi perniagaan dan majikan
+91120|Organisasi profesional
+91200|Kesatuan pekerja
+91910|Aktiviti organisasi keagamaan
+91920|Aktiviti organisasi politik
+91991|Perkhidmatan untuk kebaikan masyarakat dan sokongan komuniti (termasuk kelab rotari)
+91992|Perkhidmatan pembelaan ("advocacy") bagi kumpulan-kumpulan tertentu
+91993|Perkhidmatan yang diberi oleh persatuan belia ("youth organizations")
+91999|Perkhidmatan lain yang disediakan oleh organisasi berahli ("membership organizations") t.t.m.
+92111|Penerbitan wayang gambar dan video
+92112|Pengedaran wayang gambar dan video
+92120|Penayangan wayang gambar
+92131|Penerbitan program radio
+92132|Penerbitan program televisyen
+92141|Penerbitan dan persembahan teater, kumpulan nyanyian dan hiburan okestra
+92142|Perkhidmatan yang diberi oleh pengarang, komposer, pengukir, penghibur dan artis-artis perseorangan lain
+92149|Perkhidmatan bantuan teater t.t.m.
+92191|Sarkas, taman permainan/hiburan dan seumpamanya
+92192|Kelab kabaret, disko dan karaoke
+92199|Aktiviti hiburan t.t.m.
+92201|Perkhidmatan menyediakan berita yang bercetak
+92202|Perkhidmatan menyediakan gambar
+92209|Perkhidmatan-perkhidmatan lain bagi agensi berita
+92310|Perpustakaan dan arkib
+92320|Muzium termasuk akiviti pemeliharaan kawasan dan bangunan bersejarah
+92330|Pengendalian taman botani dan zoologi dan rezab alam semulajadi
+92411|Kelab golf
+92412|Sukan air dan kelab rekreasi kecuali kelab golf
+92413|Kelab menunggang kuda
+92414|Penganjuran dan pengurusan acara sukan
+92415|Perkhidmatan mengendalikan kemudahan sukan ("sports facility")
+92419|Perkhidmatan kesukanan yang lain (termasuk kelab bola, kelab menembak, kelab bina-badan)
+92491|Aktiviti memilih pelakon/penyanyi ("casting" untuk filem,televisyen dan penerbitan teater, studio rakaman)
+92492|Merekod atau merakam bunyi
+92493|Agensi tempahan (berkaitan dengan penerbitan teater dan hiburan)
+92494|Perkhidmatan taman dan pantai rekreasi
+92495|Perjudian dan pertaruhan
+92499|Aktiviti rekreasi lain t.t.m.
+93010|Dobi dan cucian kering tekstil dan produk bulu
+93021|Perkhidmatan menggunting rambut lelaki
+93022|Perkhidmatan mendandan rambut wanita termasuk perkhidmatan-perkhidmatan lain di salon unisex
+93023|Perkhidmatan kecantikan
+93030|Perkhidmatan pengkebumian dan yang berkaitan
+93091|Perkhidmatan mencari jodoh, sahabat pena dan pertemuan ("dating")
+93092|Perkhidmatan rumah urut dan pusat kesihatan (contoh: "spa", "sauna baths")
+93093|Perkhidmatan teman pengiring ("sosial escort")
+93099|Aktiviti perkhidmatan yang lain t.t.m.
+95000|Rumahtangga persendirian yang menggaji pekerja
+99000|Organisasi dan perbadanan luar wilayah

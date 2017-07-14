@@ -1,0 +1,13 @@
+Income Calculation Report, Schedule 1, rptIncomeCalculation, rptIncomeCalculationM, rptReliefs
+Tax Computation Summary Report, Schedule 1A, rptTaxSummarry
+Computation of Unabsorbed Capital Allowances, Schedule 1.1, rptUnabsorbed_CA
+Adjusted Loss for Business and Partnership, Schedule 1.2, rptBusiness_Loss
+Profit and Loss and Detailed Analysis, Schedule 2, rptP&L
+Capital Allowance Summary Report, Schedule 3, CA_Summary_Category
+Capital Allowance Detailed Report, Schedule 4, CA_SummaryDetail_Category
+Capital Allowance Addition Report, Schedule 5, CA_Addition
+Capital Allowance Disposal Report, Schedule 6, CA_Disposal
+Hire Purchase Report, Schedule 7, CA_FixedAssetsRec_SubCategory
+Employment Income Report, Schedule 8, rptEmploymentIncome
+Partnership Income Report, Schedule 9, rptPartnershipIncome
+Appendices,, rptAppendices
